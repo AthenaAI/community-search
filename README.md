@@ -1,6 +1,11 @@
-# Guidelines for contributing to [Athena](https://www.athena.cool)
+# Guidelines for contributing to Athena
+[Athena](https://www.athena.cool) is a community-curated repository of 🔥 learning resources. Every resource in this collection is manually curated by the community, and can be searched through [here](https://www.athena.cool).
 
+Self-learning with Google, YouTube, and Reddit is difficult because there's so much noise. If you Google "learn programming", half of the results are ads and the other half are products like Codecademy and media companies saying "you should learn how to code." There's a bit of signal, but it's mostly noise. Even if you're serious about self-learning, it's hard to focus and not get caught up in random rabbit holes.
 
+Our goal is to cut out this noise by manually curating a collection of the best learning resources on the Internet. Our collection has a tech-lean for now, but the community is working hard to broaden its reach. We have 🔥 resources on everything from startups and engineering to public speaking and morality.
+
+**This repo is where you can contribute your favorite learning resources to the collection! And when you do, you get your name on our [contributor wall](https://www.athena.cool/contributors).**
 
 Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
