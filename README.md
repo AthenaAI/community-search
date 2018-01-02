@@ -20,6 +20,9 @@ Self-learning with Google, YouTube, and Reddit is difficult because there's so m
 The best way to learn on the Internet is to get people who already know what you're trying to learn about recommend the best resources. This is ideal if you know a subject expert, but if you don't, Athena's the next best thing.
 
 ## Contributing to this collection
+There are three ways to contribute to Athena: [through this Github repo](#step-by-step-guide-to-contributing-through-github), through [this Typeform](https://athena-ai.typeform.com/to/DeChoI), or through the Intercom chat on the bottom right of [our website](https://www.athena.cool).
+
+### Step-by-step guide to contributing through Github
 
 **Step 1.** Find a learning resource that's both useful and interesting.  
 **Step 2.** Stress-test the resource's quality, by using it yourself.  
