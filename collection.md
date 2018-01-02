@@ -937,3 +937,4 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Awesome Programming for Kids | Lists | Awesome Programming for Kids | https://github.com/HollyAdele/awesome-programming-for-kids |
 |  Awesome Educational Games | Lists | Awesome Educational Games | https://github.com/yrgo/awesome-eg |
 |  Awesome JavaScript Learning | Lists | Awesome JavaScript Learning | https://github.com/micromata/awesome-javascript-learning |
+|  A16Z AI Playbook | Lists | A16Z | http://aiplaybook.a16z.com/docs/intro/getting-started |
