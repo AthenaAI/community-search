@@ -1,5 +1,5 @@
 # Guidelines for contributing to Athena
-[Athena](https://www.athena.cool) is a community-curated repository of 🔥 learning resources. Every resource in [this collection](/collection.md) is manually curated by the community, and can be searched through [here](https://www.athena.cool). [Below](/#contributing-to-this-collection) are the contribution guidelines, but alternatively you can contribute through [this Typeform](https://athena-ai.typeform.com/to/DeChoI).
+[Athena](https://www.athena.cool) is a community-curated repository of 🔥 learning resources. Every resource in [this collection](/collection.md) is manually curated by the community, and can be searched through [here](https://www.athena.cool). If you'd like to contribute to Athena, follow [this guide](/#contributing-to-this-collection), or contribute directly through [this Typeform](https://athena-ai.typeform.com/to/DeChoI) (this is much simpler).
 
 ![Athena for learning](/athena-design-mockup.png)
 
