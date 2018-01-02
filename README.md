@@ -19,6 +19,14 @@ The best way to learn on the Internet is to get people who already know what you
 
 ## Contributing to this collection
 
+**Step 1.** Find a learning resource that's both useful and interesting.
+**Step 2.** Stress-test the resource's quality, by using it yourself.
+**Step 3.** If the resource is 🔥, click on the [`collection.md`](/collection.md) file.
+**Step 4.** Now click on the edit icon on the top right (it looks like a pencil).
+**Step 5.** You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines below. You can use [GitHub Flavored Markdown](https://help.github.com/categories/writing-on-github/).
+**Step 6.** Say why you're proposing the changes, then click on "Propose file change".
+**Step 7.** Finally, submit the [pull request](https://help.github.com/articles/about-pull-requests/)!
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Make sure the link is useful before submitting. Athena's value comes from curation, not aggregation.
