@@ -30,8 +30,15 @@ Thank you for your suggestions!
 
 ## Recent Submissions
 
-| **Title of Resource** 	| **Resource URL** 	| **Kind of Resource** 	| **Creator** 	| **Your Name; and optional URL for [contributor wall](https://www.athena.cool/contributors)** 	|
-|-----------------------	|------------------	|----------------------	|------------:	|---------------	|
-|                       	|                  	|                      	|             	|               	|
-|                       	|                  	|                      	|             	|               	|
-|                       	|                  	|                      	|             	|               	|
+| **Resource URL** 	| **Kind of Resource** 	|
+|------------------	|----------------------	|
+|  https://www.amazon.com/gp/product/140006256X | Books |
+|  https://www.amazon.com/gp/product/0140278796 | Books |
+|  https://www.amazon.com/gp/product/0760734062 | Books |
+|  https://www.amazon.com/gp/product/0609809997 | Books |
+|  https://www.amazon.com/gp/product/026269185X | Books |
+|  https://www.amazon.com/gp/product/014200278X | Books |
+|  https://www.amazon.com/gp/product/0822959046 | Books |
+|  https://www.amazon.com/gp/product/0393317552 | Books |
+|  https://www.amazon.com/gp/product/0060845503 | Books |
+|  https://www.amazon.com/gp/product/006124189X | Books |
