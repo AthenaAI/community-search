@@ -1,7 +1,7 @@
 # Guidelines for contributing to Athena
 [Athena](https://www.athena.cool) is a community-curated repository of 🔥 learning resources. Every resource in [this collection](/collection.md) is manually curated by the community, and can be searched through [here](https://www.athena.cool).
 
-![](/google-learn-gif.mp4)
+<iframe src="https://giphy.com/embed/3ohc14ZzwlNImWgnrW" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3ohc14ZzwlNImWgnrW">via GIPHY</a></p>
 
 **This is where you can [contribute](#contributing-to-this-collection) your favorite learning resources to the collection!** When you do, you get your name on our [contributor wall](https://www.athena.cool/contributors).
 
