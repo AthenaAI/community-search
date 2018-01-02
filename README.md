@@ -3,7 +3,7 @@
 
 ![Athena for learning](/athena-design-mockup.png)
 
-**This is where you can [contribute](#contributing-to-this-collection) your favorite learning resources to the collection!** When you do, you get your name on our [contributor wall](https://www.athena.cool/contributors).
+**This is where you can [contribute](#contributing-to-this-collection) your favorite learning resources to the collection!** When you do, you get your name on our [contributor wall](https://www.athena.cool/#/contributors).
 
 ## Table of Contents
 
