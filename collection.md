@@ -1,5 +1,5 @@
 ## Recent Submissions to the Collection
-This is a sample of the most recent submissions to [Athena](https://www.athena.cool). If you'd like to contribute to this collection, follow [this guide](/readme.md/#contributing-to-this-collection).
+This is a sample of the most recent submissions to [Athena](https://www.athena.cool). If you'd like to contribute to this collection, follow [this guide](/readme.md/#contributing-to-this-collection). We filter through these submissions and add the best resources to our [official spreadsheet](https://docs.google.com/spreadsheets/d/1XI4BS-_9BpDw8wMGWUqZJDQiPu-wgPAcRE00jXk8OBo/edit#gid=1949736423) (that our crawler scrapes and adds to [our website](https://www.athena.cool)).
 
 |  **Title** | **Kind of Content** | **Creator** | **URL** |
 |  ------ | ------ | ------ | ------ |
