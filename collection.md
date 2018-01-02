@@ -23,166 +23,166 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Getting It Done: How to Lead When You're Not in Charge | https://www.amazon.com/gp/product/0887309585 | Books | Roger Fisher & Alan Sharp |
 |  Three Scientists and Their Gods: A Search for Meaning in an Age of Information | https://www.amazon.com/gp/product/0812913280 | Books | Robert Wright |
 |  Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company | https://www.amazon.com/gp/product/0385483821 | Books | Andy Grove |
-|  My Inventions: The Autobiography of Nikola Tesla | https://www.amazon.com/gp/product/161293093X?ie=UTF8&camp=1789&creativeASIN=161293093X&linkCode=xm2&tag=favobooks0b-20 | Books | Nikola Tesla |
-|  Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) | https://www.amazon.com/gp/product/0393316041?ie=UTF8&camp=1789&creativeASIN=0393316041&linkCode=xm2&tag=favobooks0b-20 | Books | Richard Feynman |
-|  "What Do You Care What Other People Think?": Further Adventures of a Curious Character | https://www.amazon.com/gp/product/0393320928?ie=UTF8&camp=1789&creativeASIN=0393320928&linkCode=xm2&tag=favobooks0b-20 | Books | Richard Feynman |
-|  QED: The Strange Theory of Light and Matter (Princeton Science Library) | https://www.amazon.com/gp/product/0691164096?ie=UTF8&camp=1789&creativeASIN=0691164096&linkCode=xm2&tag=favobooks0b-20 | Books | Richard Feynman |
-|  The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books) | https://www.amazon.com/gp/product/0465023959?ie=UTF8&camp=1789&creativeASIN=0465023959&linkCode=xm2&tag=favobooks0b-20 | Books | Richard Feynman |
-|  Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics) | https://www.amazon.com/gp/product/0061339202?ie=UTF8&camp=1789&creativeASIN=0061339202&linkCode=xm2&tag=favobooks0b-20 | Books | Mihaly Csikszentmihalyi |
-|  The Power of Now: A Guide to Spiritual Enlightenment | https://www.amazon.com/gp/product/1577314808/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1577314808&linkCode=as2&tag=favobooks0b-20 | Books | Eckhart Tolle |
-|  Tao Te Ching | https://www.amazon.com/gp/product/0060812451?ie=UTF8&camp=1789&creativeASIN=0060812451&linkCode=xm2&tag=favobooks0b-20 | Books | Laozi |
-|  The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility" (Incerto) | https://www.amazon.com/gp/product/081297381X?ie=UTF8&camp=1789&creativeASIN=081297381X&linkCode=xm2&tag=favobooks0b-20 | Books | Nassim Nicholas Taleb |
-|  Hackers & Painters: Big Ideas from the Computer Age | https://www.amazon.com/gp/product/1449389554/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449389554&linkCode=as2&tag=favobooks0b-20 | Books | Paul Graham |
-|  The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World (Perigee Book.) | https://www.amazon.com/gp/product/0399536108?ie=UTF8&camp=1789&creativeASIN=0399536108&linkCode=xm2&tag=favobooks0b-20 | Books | Chris Guillebeau |
-|  An Introduction to Zen Buddhism | https://www.amazon.com/gp/product/0802130550?ie=UTF8&camp=1789&creativeASIN=0802130550&linkCode=xm2&tag=favobooks0b-20 | Books | D. T. Suzuki & Carl Jung |
-|  The 48 Laws of Power | https://www.amazon.com/gp/product/0140280197?ie=UTF8&camp=1789&creativeASIN=0140280197&linkCode=xm2&tag=favobooks0b-20 | Books | Robert Greene |
-|  The Design of Everyday Things: Revised and Expanded Edition | https://www.amazon.com/gp/product/0465050654?ie=UTF8&camp=1789&creativeASIN=0465050654&linkCode=xm2&tag=favobooks0b-20 | Books | Don Norman |
-|  The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism | https://www.amazon.com/gp/product/1591845947?ie=UTF8&camp=1789&creativeASIN=1591845947&linkCode=xm2&tag=favobooks0b-20 | Books | Olivia Fox Cabane |
-|  Now, Discover Your Strengths | https://www.amazon.com/gp/product/0743201140?ie=UTF8&camp=1789&creativeASIN=0743201140&linkCode=xm2&tag=favobooks0b-20 | Books | Marcus Buckingham & Donald O. Clifton |
-|  The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_4?s=books&ie=UTF8&qid=1512597214&sr=1-4&keywords=the+lean+startup | Books | Eric Ries |
-|  How Companies Win: Profiting from Demand-Driven Business Models No Matter What Business You’re In | https://www.amazon.com/gp/product/0062000454?ie=UTF8&camp=1789&creativeASIN=0062000454&linkCode=xm2&tag=favobooks0b-20 | Books | Rick Kash & David Calhoun |
-|  The Big Short: Inside the Doomsday Machine | https://www.amazon.com/gp/product/0393338827?ie=UTF8&camp=1789&creativeASIN=0393338827&linkCode=xm2&tag=favobooks0b-20 | Books | Michael Lewis |
-|  Conscious Business: How to Build Value through Values | https://www.amazon.com/gp/product/1622032020?ie=UTF8&camp=1789&creativeASIN=1622032020&linkCode=xm2&tag=favobooks0b-20 | Books | Fred Kofman |
-|  Leaving Microsoft to Change the World: An Entrepreneur’s Odyssey to Educate the World’s Children | https://www.amazon.com/Leaving-Microsoft-Change-World-Entrepreneurs/dp/0061121088/ref=sr_1_1?s=books&ie=UTF8&qid=1512597508&sr=1-1&keywords=Leaving+Microsoft+to+Save+the+World | Books | John Wood |
-|  Structures: Or Why Things Don't Fall Down | https://www.amazon.com/gp/product/0306812835/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0306812835&linkCode=as2&tag=favobooks0b-20 | Books | J. E. Gordan |
-|  The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials) | https://www.amazon.com/gp/product/0060833459?ie=UTF8&camp=1789&creativeASIN=0060833459&linkCode=xm2&tag=favobooks0b-20 | Books | Peter Drucker |
-|  Built to Last: Successful Habits of Visionary Companies | https://www.amazon.com/gp/product/0060566108?ie=UTF8&camp=1789&creativeASIN=0060566108&linkCode=xm2&tag=favobooks0b-20 | Books | Jim Collins |
-|  Good to Great: Why Some Companies Make the Leap and Others Don't | https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/ref=sr_1_1?s=books&ie=UTF8&qid=1512597892&sr=1-1&keywords=good+to+great | Books | Jim Collins |
-|  Competing Against Time: How Time-Based Competition is Reshaping Global Markets | https://www.amazon.com/gp/product/0743253418/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743253418&linkCode=as2&tag=favobooks0b-20 | Books | George Stalk |
-|  Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | https://www.amazon.com/gp/product/0062116932?ie=UTF8&camp=1789&creativeASIN=0062116932&linkCode=xm2&tag=favobooks0b-20 | Books | Chade-Meng Tan |
-|  The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom | https://www.amazon.com/gp/product/0465028020?ie=UTF8&camp=1789&creativeASIN=0465028020&linkCode=xm2&tag=favobooks0b-20 | Books | Jonathan Haidt |
-|  Outliers: The Story of Success | https://www.amazon.com/gp/product/0316017930/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316017930&linkCode=as2&tag=favobooks0b-20 | Books | Malcolm Gladwell |
-|  The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | https://www.amazon.com/gp/product/0307951529?ie=UTF8&camp=1789&creativeASIN=0307951529&linkCode=xm2&tag=favobooks0b-20 | Books | Chris Guillebeau |
-|  Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization | https://www.amazon.com/gp/product/0061251321?ie=UTF8&camp=1789&creativeASIN=0061251321&linkCode=xm2&tag=favobooks0b-20 | Books | Dave Logan, John King, Halee Fischer-Wright |
-|  Peak: How Great Companies Get Their Mojo from Maslow | https://www.amazon.com/gp/product/0787988618?ie=UTF8&camp=1789&creativeASIN=0787988618&linkCode=xm2&tag=favobooks0b-20 | Books | Chip Conley |
-|  Benjamin Franklin: An American Life | https://www.amazon.com/gp/product/074325807X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=074325807X&linkCode=as2&tag=favobooks0b-20&linkId=DYUBNSRO4II2JLU4 | Books | Walter Isaacson |
-|  Howard Hughes: His Life and Madness | https://www.amazon.com/gp/product/0393326020/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393326020&linkCode=as2&tag=favobooks0b-20&linkId=EZTBHL7O3QNSHOVT | Books | Donald L. Barlett & James B. Steele |
-|  Tesla: Inventor of the Electrical Age | https://www.amazon.com/gp/product/0691057761/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0691057761&linkCode=as2&tag=favobooks0b-20&linkId=5LPYB36Z2RWFV3D7 | Books | W. Bernard Carlson |
-|  Ignition!: An informal history of liquid rocket propellants | https://www.amazon.com/gp/product/0813507251/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0813507251&linkCode=as2&tag=favobooks0b-20 | Books | John D. Clark |
-|  The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | https://www.amazon.com/gp/product/0062273205?ie=UTF8&camp=1789&creativeASIN=0062273205&linkCode=xm2&tag=favobooks0b-20 | Books | Ben Horowitz |
-|  Zero to One: Notes on Startups, or How to Build the Future | https://www.amazon.com/gp/product/0804139296?ie=UTF8&camp=1789&creativeASIN=0804139296&linkCode=xm2&tag=favobooks0b-20 | Books | Peter Thiel |
-|  The Facebook Effect: The Inside Story of the Company That Is Connecting the World | https://www.amazon.com/gp/product/1439102120?ie=UTF8&camp=1789&creativeASIN=1439102120&linkCode=xm2&tag=favobooks0b-20 | Books | David Kirkpatrick |
-|  Nonviolent Communication: A Language of Life | https://www.amazon.com/gp/product/1892005034?ie=UTF8&camp=1789&creativeASIN=1892005034&linkCode=xm2&tag=favobooks0b-20 | Books | Marshall B. Rosenberg |
-|  Long Walk to Freedom: The Autobiography of Nelson Mandela | https://www.amazon.com/gp/product/0316548189?ie=UTF8&camp=1789&creativeASIN=0316548189&linkCode=xm2&tag=favobooks0b-20 | Books | Nelson Mandela |
-|  Mao: The Unknown Story | https://www.amazon.com/gp/product/0679746323?ie=UTF8&camp=1789&creativeASIN=0679746323&linkCode=xm2&tag=favobooks0b-20 | Books | Jung Chang & Jon Halliday |
-|  In-N-Out Burger: A Behind-the-Counter Look at the Fast-Food Chain That Breaks All the Rules | https://www.amazon.com/gp/product/0061346721?ie=UTF8&camp=1789&creativeASIN=0061346721&linkCode=xm2&tag=favobooks0b-20 | Books | Stacy Perman |
-|  Wild Swans: Three Daughters of China | https://www.amazon.com/gp/product/0743246985?ie=UTF8&camp=1789&creativeASIN=0743246985&linkCode=xm2&tag=favobooks0b-20 | Books | Jung Chang   |
-|  The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business | https://www.amazon.com/gp/product/0062060244/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062060244&linkCode=as2&tag=favobooks0b-20 | Books | Clayton M. Christensen |
-|  Direct from Dell: Strategies that Revolutionized an Industry (Collins Business Essentials) | https://www.amazon.com/gp/product/0060845724/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060845724&linkCode=as2&tag=favobooks0b-20 | Books | Michael Dell |
-|  Principles: Life and Work | https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=sr_1_3?s=books&ie=UTF8&qid=1512599373&sr=1-3&keywords=ray+dalio | Books | Ray Dalio |
-|  Leonardo da Vinci | https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=la_B000APFLB8_1_1?s=books&ie=UTF8&qid=1512599406&sr=1-1 | Books | Walter Isaacson |
-|  Einstein: His Life and Universe | https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/ref=la_B000APFLB8_1_3?s=books&ie=UTF8&qid=1512599406&sr=1-3 | Books | Walter Isaacson |
-|  Steve Jobs | https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1501127624/ref=la_B000APFLB8_1_4?s=books&ie=UTF8&qid=1512599406&sr=1-4 | Books | Walter Isaacson |
-|  The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution | https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=la_B000APFLB8_1_5?s=books&ie=UTF8&qid=1512599406&sr=1-5 | Books | Walter Isaacson |
-|  Kissinger: A Biography | https://www.amazon.com/Kissinger-Biography-Walter-Isaacson/dp/0743286979/ref=la_B000APFLB8_1_8?s=books&ie=UTF8&qid=1512599406&sr=1-8 | Books | Walter Isaacson |
-|  Sapiens: A Brief History of Humankind | https://www.amazon.com/Sapiens-History-Humankind-Yuval-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1512599553&sr=1-1&keywords=sapiens | Books | Yuval Noah Harari |
-|  Homo Deus: A Brief History of Tomorrow | https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_1?s=books&ie=UTF8&qid=1512599630&sr=1-1 | Books | Yuval Noah Harari |
-|  Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West | https://www.amazon.com/gp/product/0684826976?ie=UTF8&camp=1789&creativeASIN=0684826976&linkCode=xm2&tag=favobooks0b-20 | Books | Stephen Ambrose |
-|  A Short History of Nearly Everything: Special Illustrated Edition | https://www.amazon.com/gp/product/0307885151?ie=UTF8&camp=1789&creativeASIN=0307885151&linkCode=xm2&tag=favobooks0b-20 | Books | Bill Bryson |
-|  Jack: Straight from the Gut | https://www.amazon.com/gp/product/0446690686?ie=UTF8&camp=1789&creativeASIN=0446690686&linkCode=xm2&tag=favobooks0b-20 | Books | Jack Welch & John A. Byrne |
-|  Sam Walton: Made In America | https://www.amazon.com/gp/product/0553562835?ie=UTF8&camp=1789&creativeASIN=0553562835&linkCode=xm2&tag=favobooks0b-20 | Books | Sam Walton |
-|  Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions) | https://www.amazon.com/gp/product/0071592539/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0071592539&linkCode=as2&tag=favobooks0b-20 | Books | Benjamin Graham & David Dodd |
-|  The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition) (Collins Business Essentials) | https://www.amazon.com/gp/product/0060555661?ie=UTF8&camp=1789&creativeASIN=0060555661&linkCode=xm2&tag=favobooks0b-20 | Books | Benjamin Graham   |
-|  The History of the Decline and Fall of the Roman Empire, Vol. 1 | https://www.amazon.com/gp/product/0140433937?ie=UTF8&camp=1789&creativeASIN=0140433937&linkCode=xm2&tag=favobooks0b-20 | Books | Edward Gibbon |
-|  The Trial and Death of Socrates | https://www.amazon.com/gp/product/0872205541?ie=UTF8&camp=1789&creativeASIN=0872205541&linkCode=xm2&tag=favobooks0b-20 | Books | Plato |
-|  Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor | https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/ref=sr_1_1?s=books&ie=UTF8&qid=1512600192&sr=1-1&keywords=seth+klarman | Books | Seth Klarman |
-|  Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition | https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1578645018&pd_rd_r=Q8RYR2NYCVYR4JK1FDVF&pd_rd_w=eGzzI&pd_rd_wg=2TkLJ&psc=1&refRID=Q8RYR2NYCVYR4JK1FDVF | Books | Charles Munger |
-|  Berkshire Hathaway Letters to Shareholders | https://www.amazon.com/Berkshire-Hathaway-Letters-Shareholders-Buffett/dp/0615975070/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0615975070&pd_rd_r=YSHJF865PFN87F6VCD2G&pd_rd_w=9V7mp&pd_rd_wg=4OMoE&psc=1&refRID=YSHJF865PFN87F6VCD2G | Books | Warren Buffett |
-|  The Checklist Manifesto: How to Get Things Right | https://www.amazon.com/gp/product/0312430000/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0312430000&linkCode=as2&tag=favobooks0b-20 | Books | Atul Gawande |
-|  The Fountainhead | https://www.amazon.com/gp/product/0452273331/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452273331&linkCode=as2&tag=favobooks0b-20 | Books | Ayn Rand |
-|  The Singularity Is Near: When Humans Transcend Biology | https://www.amazon.com/gp/product/0143037889?ie=UTF8&camp=1789&creativeASIN=0143037889&linkCode=xm2&tag=favobooks0b-20 | Books | Ray Kurzweil |
-|  Seeking Wisdom: From Darwin to Munger, 3rd Edition | https://www.amazon.com/gp/product/1578644283?ie=UTF8&camp=1789&creativeASIN=1578644283&linkCode=xm2&tag=favobooks0b-20 | Books | Peter Bevelin |
-|  The Paradox of Choice: Why More Is Less | https://www.amazon.com/gp/product/0060005696?ie=UTF8&camp=1789&creativeASIN=0060005696&linkCode=xm2&tag=favobooks0b-20 | Books | Barry Schwartz |
-|  The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor | https://www.amazon.com/gp/product/0465089739?ie=UTF8&camp=1789&creativeASIN=0465089739&linkCode=xm2&tag=favobooks0b-20 | Books | William Easterly |
-|  Modelling Extremal Events: for Insurance and Finance (Stochastic Modelling and Applied Probability) | https://www.amazon.com/gp/product/3540609318?ie=UTF8&camp=1789&creativeASIN=3540609318&linkCode=xm2&tag=favobooks0b-20 | Books | Paul Embrechts, Claudia Klüppelberg, Thomas Mikosch |
-|  The Kelly Capital Growth Investment Criterion: Theory and Practice (World Scientific Handbook in Financial Economics) | https://www.amazon.com/gp/product/9814383139?ie=UTF8&camp=1789&creativeASIN=9814383139&linkCode=xm2&tag=favobooks0b-20 | Books | Leonard C. MacLean, Edward O. Thorp, William T. Ziemba |
-|  The Science of Conjecture: Evidence and Probability before Pascal | https://www.amazon.com/gp/product/1421418800?ie=UTF8&camp=1789&creativeASIN=1421418800&linkCode=xm2&tag=favobooks0b-20 | Books | James Franklin |
-|  Probability, Random Variables and Stochastic Processes | https://www.amazon.com/gp/product/0071226613?ie=UTF8&camp=1789&creativeASIN=0071226613&linkCode=xm2&tag=favobooks0b-20 | Books | Athanasios Papoulis, S. Unnikrishna Pillai |
-|  Mathematics: Its Content, Methods and Meaning (3 Volumes in One) | https://www.amazon.com/gp/product/0486409163?ie=UTF8&camp=1789&creativeASIN=0486409163&linkCode=xm2&tag=favobooks0b-20 | Books | A. D. Aleksandrov, A. N. Kolmogorov,  M. A. Lavrent'ev |
-|  The Hour Between Dog and Wolf: Risk Taking, Gut Feelings and the Biology of Boom and Bust | https://www.amazon.com/gp/product/1594203385?ie=UTF8&camp=1789&creativeASIN=1594203385&linkCode=xm2&tag=favobooks0b-20 | Books | John Coates |
-|  Information: The New Language of Science | https://www.amazon.com/gp/product/0674018575?ie=UTF8&camp=1789&creativeASIN=0674018575&linkCode=xm2&tag=favobooks0b-20 | Books | Hans Christian von Baeyer |
-|  Statistical Models: Theory and Practice | https://www.amazon.com/gp/product/0521743850?ie=UTF8&camp=1789&creativeASIN=0521743850&linkCode=xm2&tag=favobooks0b-20 | Books | David A. Freedman |
-|  The (Mis)behavior of Markets | https://www.amazon.com/gp/product/0465043550?ie=UTF8&camp=1789&creativeASIN=0465043550&linkCode=xm2&tag=favobooks0b-20 | Books | Benoit B. Mandelbrot, Richard L. Hudson |
-|  A Guide to Econometrics. 6th edition | https://www.amazon.com/gp/product/1405182571?ie=UTF8&camp=1789&creativeASIN=1405182571&linkCode=xm2&tag=favobooks0b-20 | Books | Peter Kennedy |
-|  Why Stock Markets Crash: Critical Events in Complex Financial Systems | https://www.amazon.com/gp/product/0691118507?ie=UTF8&camp=1789&creativeASIN=0691118507&linkCode=xm2&tag=favobooks0b-20 | Books | Didier Sornette |
-|  My Years with General Motors | https://www.amazon.com/gp/product/0385042353/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385042353&linkCode=as2&tag=favobooks0b-20 | Books | Alfred Sloan |
-|  The Better Angels of Our Nature: Why Violence Has Declined  | https://www.amazon.com/gp/product/0143122010?ie=UTF8&camp=1789&creativeASIN=0143122010&linkCode=xm2&tag=favobooks0b-200 | Books | Steven Pinker |
-|  Business Adventures: Twelve Classic Tales from the World of Wall Street | https://www.amazon.com/gp/product/B00L1TPCKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00L1TPCKW&linkCode=as2&tag=favobooks0b-20&linkId=IJW43JOC6T5QJH2K | Books | John Brooks |
-|  SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | https://www.amazon.com/gp/product/B002R2OFGY/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002R2OFGY&linkCode=as2&tag=favobooks0b-20 | Books | Steven D. Levitt, Stephen J. Dubner |
-|  Freakonomics Rev Ed: A Rogue Economist Explores the Hidden Side of Everything | https://www.amazon.com/gp/product/B000MAH66Y/ref=series_rw_dp_sw | Books | Steven D. Levitt, Stephen J. Dubner |
-|  That Used to Be Us: How America Fell Behind in the World It Invented and How We Can Come Back | https://www.amazon.com/gp/product/1250013720/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250013720&linkCode=as2&tag=favobooks0b-20 | Books | Thomas L. Friedman, Michael Mandelbaum |
-|  For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics | https://www.amazon.com/gp/product/145160713X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=145160713X&linkCode=as2&tag=favobooks0b-20 | Books | Walter Lewin |
-|  The Language Instinct: How the Mind Creates Language (P.S.) | https://www.amazon.com/gp/product/0061336467/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061336467&linkCode=as2&tag=favobooks0b-20 | Books | Steven Pinker |
-|  The Ten Commandments for Business Failure | https://www.amazon.com/gp/product/B0064XA83Q/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0064XA83Q&linkCode=as2&tag=favobooks0b-20 | Books | Donald R. Keough |
-|  Age Of Reason | https://www.amazon.com/gp/product/145656854X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=145656854X&linkCode=as2&tag=favobooks0b-20 | Books | Thomas Paine |
-|  The Prince | https://www.amazon.com/gp/product/1613821719?ie=UTF8&camp=1789&creativeASIN=1613821719&linkCode=xm2&tag=favobooks0b-20 | Books | Niccolo Machiavelli |
-|  The Art of War | https://www.amazon.com/gp/product/1936041758?ie=UTF8&camp=1789&creativeASIN=1936041758&linkCode=xm2&tag=favobooks0b-20 | Books | Sun Tzu |
-|  The Principia (Great Minds) | https://www.amazon.com/gp/product/0879759801/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0879759801&linkCode=as2&tag=favobooks0b-20 | Books | Isaac Newton |
-|  The Origin of Species: 150th Anniversary Edition | https://www.amazon.com/gp/product/0451529065/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0451529065&linkCode=as2&tag=favobooks0b-20 | Books | Charles Darwin |
-|  The Wealth of Nations (Bantam Classics) | https://www.amazon.com/gp/product/0553585975/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0553585975&linkCode=as2&tag=favobooks0b-20 | Books | Adam Smith |
-|  The Communist Manifesto | https://www.amazon.com/Communist-Manifesto-Karl-Marx/dp/0717802418/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0717802418&pd_rd_r=NBG7YYBMA36PX1AJ9NHH&pd_rd_w=EF8aH&pd_rd_wg=sN3TZ&psc=1&refRID=NBG7YYBMA36PX1AJ9NHH | Books | Karl Marx |
-|  The General Theory of Employment, Interest, and Money | https://www.amazon.com/General-Theory-Employment-Interest-Money/dp/0156347113/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0156347113&pd_rd_r=NBG7YYBMA36PX1AJ9NHH&pd_rd_w=EF8aH&pd_rd_wg=sN3TZ&psc=1&refRID=NBG7YYBMA36PX1AJ9NHH | Books | John Maynard Keynes |
-|  Das Kapital: A Critque of Political Economy | https://www.amazon.com/Das-Kapital-Critque-Political-Economy/dp/145388632X/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=145388632X&pd_rd_r=NBG7YYBMA36PX1AJ9NHH&pd_rd_w=EF8aH&pd_rd_wg=sN3TZ&psc=1&refRID=NBG7YYBMA36PX1AJ9NHH | Books | Karl Marx |
-|  The Theory of Moral Sentiments | https://www.amazon.com/Theory-Moral-Sentiments-Adam-Smith/dp/1540584941/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=1540584941&pd_rd_r=NBG7YYBMA36PX1AJ9NHH&pd_rd_w=EF8aH&pd_rd_wg=sN3TZ&psc=1&refRID=NBG7YYBMA36PX1AJ9NHH | Books | Adam Smith |
-|  Capitalism and Freedom: Fortieth Anniversary Edition | https://www.amazon.com/Capitalism-Freedom-Anniversary-Milton-Friedman/dp/0226264211/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=0226264211&pd_rd_r=NBG7YYBMA36PX1AJ9NHH&pd_rd_w=EF8aH&pd_rd_wg=sN3TZ&psc=1&refRID=NBG7YYBMA36PX1AJ9NHH | Books | Milton Friedman |
-|  Milton Friedman: The Essential Collection | https://www.amazon.com/Milton-Friedman-Essential-Collection/dp/1635356911/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1635356911&pd_rd_r=QBYCP4FM3BR263MFNQPR&pd_rd_w=Bj8ng&pd_rd_wg=Q0sYA&psc=1&refRID=QBYCP4FM3BR263MFNQPR | Books | Milton Friedman |
-|  Free to Choose: A Personal Statement | https://www.amazon.com/Free-Choose-Statement-Milton-Friedman/dp/0156334607/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0156334607&pd_rd_r=QBYCP4FM3BR263MFNQPR&pd_rd_w=Bj8ng&pd_rd_wg=Q0sYA&psc=1&refRID=QBYCP4FM3BR263MFNQPR | Books | Milton Friedman |
-|  A Treatise of Human Nature | https://www.amazon.com/gp/product/1466297468?ie=UTF8&camp=1789&creativeASIN=1466297468&linkCode=xm2&tag=favobooks0b-20 | Books | David Hume |
-|  The Critique of Pure Reason | https://www.amazon.com/Critique-Pure-Reason-Immanuel-Kant/dp/1537260057/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1537260057&pd_rd_r=A3TQR1V6D0DF8X96PV8R&pd_rd_w=ov8Wf&pd_rd_wg=DJve8&psc=1&refRID=A3TQR1V6D0DF8X96PV8R | Books | Immanuel Kant |
-|  Why Evolution Is True | https://www.amazon.com/gp/product/0143116649?ie=UTF8&camp=1789&creativeASIN=0143116649&linkCode=xm2&tag=favobooks0b-20 | Books | Jerry A. Coyne |
-|  Why We Get Sick: The New Science of Darwinian Medicine | https://www.amazon.com/gp/product/0679746749?ie=UTF8&camp=1789&creativeASIN=0679746749&linkCode=xm2&tag=favobooks0b-20 | Books | Randolph M. Nesse, George C. Williams |
-|  The Demon-Haunted World: Science as a Candle in the Dark | https://www.amazon.com/gp/product/0345409469?ie=UTF8&camp=1789&creativeASIN=0345409469&linkCode=xm2&tag=favobooks0b-20 | Books | Carl Sagan |
-|  Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves | https://www.amazon.com/gp/product/0143118242?ie=UTF8&camp=1789&creativeASIN=0143118242&linkCode=xm2&tag=favobooks0b-20 | Books | Andrew Ross Sorkin |
-|  The Ascent of Money: A Financial History of the World  | https://www.amazon.com/gp/product/0143116177?ie=UTF8&camp=1789&creativeASIN=0143116177&linkCode=xm2&tag=favobooks0b-20 | Books | Niall Ferguson |
-|  When Genius Failed: The Rise and Fall of Long-Term Capital Management | https://www.amazon.com/gp/product/0375758259?ie=UTF8&camp=1789&creativeASIN=0375758259&linkCode=xm2&tag=favobooks0b-20 | Books | Roger Lowenstein |
-|  Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions | https://www.amazon.com/gp/product/0061353248?ie=UTF8&camp=1789&creativeASIN=0061353248&linkCode=xm2&tag=favobooks0b-20 | Books | Dan Ariely |
-|  Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) | https://www.amazon.com/gp/product/0262510871?ie=UTF8&camp=1789&creativeASIN=0262510871&linkCode=xm2&tag=favobooks0b-20 | Books | Harold Abelson, Gerald Jay Sussman, Julie Sussman |
-|  The Gospel of Wealth (Dodo Press) | https://www.amazon.com/gp/product/1409942171/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1409942171&linkCode=as2&tag=favobooks0b-20 | Books | Andrew Carnegie |
-|  Rework | https://www.amazon.com/gp/product/0307463745/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307463745&linkCode=as2&tag=favobooks0b-20 | Books | Jason Fried |
-|  The Only Investment Guide You'll Ever Need | https://www.amazon.com/gp/product/B002V1GZDM/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002V1GZDM&linkCode=as2&tag=favobooks0b-20 | Books | Andrew Tobias |
-|  Cold Calling Techniques: That Really Work | https://www.amazon.com/gp/product/1598691481/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1598691481&linkCode=as2&tag=favobooks0b-20 | Books | Stephan Schiffman |
-|  Call Me Ted | https://www.amazon.com/gp/product/B0044KN1PI?ie=UTF8&camp=1789&creativeASIN=B0044KN1PI&linkCode=xm2&tag=favobooks0b-20 | Books | Ted Turner |
-|  Civil Disobedience | https://www.amazon.com/gp/product/1505383935?ie=UTF8&camp=1789&creativeASIN=1505383935&linkCode=xm2&tag=favobooks0b-20 | Books | Henry David Thoreau |
-|  The Social Contract (Penguin Books for Philosophy) | https://www.amazon.com/gp/product/0140442014?ie=UTF8&camp=1789&creativeASIN=0140442014&linkCode=xm2&tag=favobooks0b-20 | Books | Jean-Jacques Rousseau |
-|  The Republic | https://www.amazon.com/gp/product/1503379981?ie=UTF8&camp=1789&creativeASIN=1503379981&linkCode=xm2&tag=favobooks0b-20 | Books | Plato |
-|  Politics | https://www.amazon.com/gp/product/B01E4S1674?ie=UTF8&camp=1789&creativeASIN=B01E4S1674&linkCode=xm2&tag=favobooks0b-20 | Books | Plato |
-|  Nicomachean Ethics | https://www.amazon.com/gp/product/0872204642?ie=UTF8&camp=1789&creativeASIN=0872204642&linkCode=xm2&tag=favobooks0b-20 | Books | Aristotle |
-|  Things Hidden Since the Foundation of the World | https://www.amazon.com/gp/product/0804722153?ie=UTF8&camp=1789&creativeASIN=0804722153&linkCode=xm2&tag=favobooks0b-20 | Books | René Girard |
-|  Sir Francis Bacon: The New Atlantis | https://www.amazon.com/gp/product/1451537638?ie=UTF8&camp=1789&creativeASIN=1451537638&linkCode=xm2&tag=favobooks0b-20 | Books | Francis Bacon |
-|  The Great Illusion: A Study of the Relation of Military Power to National Advantage | https://www.amazon.com/gp/product/B0073V8BGO?ie=UTF8&camp=1789&creativeASIN=B0073V8BGO&linkCode=xm2&tag=favobooks0b-20 | Books | Norman Angell |
-|  Grown Up Digital: How the Net Generation is Changing Your World | https://www.amazon.com/gp/product/0071508635?ie=UTF8&camp=1789&creativeASIN=0071508635&linkCode=xm2&tag=favobooks0b-20 | Books | Don Tapscott |
-|  Information Rules: A Strategic Guide to the Network Economy | https://www.amazon.com/gp/product/087584863X?ie=UTF8&camp=1789&creativeASIN=087584863X&linkCode=xm2&tag=favobooks0b-20 | Books | Carl Shapiro, Hal R. Varian |
-|  Artful Making: What Managers Need to Know About How Artists Work  | https://www.amazon.com/gp/product/0130086959?ie=UTF8&camp=1789&creativeASIN=0130086959&linkCode=xm2&tag=favobooks0b-20 | Books | Robert Austin, Lee Devin |
-|  The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field | https://www.amazon.com/gp/product/1591844886?ie=UTF8&camp=1789&creativeASIN=1591844886&linkCode=xm2&tag=favobooks0b-20 | Books | Mike Michalowicz |
-|  A Whole New Mind: Why Right-Brainers Will Rule the Future | https://www.amazon.com/gp/product/1594481717?ie=UTF8&camp=1789&creativeASIN=1594481717&linkCode=xm2&tag=favobooks0b-20 | Books | Daniel Pink |
-|  Your Marketing Sucks: 10th Anniversary Edition | https://www.amazon.com/gp/product/1496140672?ie=UTF8&camp=1789&creativeASIN=1496140672&linkCode=xm2&tag=favobooks0b-20 | Books | Mark Stevens |
-|  Zag: The Number One Strategy of High-Performance Brands  | https://www.amazon.com/gp/product/0321426770?ie=UTF8&camp=1789&creativeASIN=0321426770&linkCode=xm2&tag=favobooks0b-20 | Books | Marty Neuemeier |
-|  The Pursuit of Wow! Every Person's Guide to Topsy-Turvy Times | https://www.amazon.com/gp/product/0679755551?ie=UTF8&camp=1789&creativeASIN=0679755551&linkCode=xm2&tag=favobooks0b-20 | Books | Tom Peters |
-|  Too Big to Know: Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest Person in the Room Is the Room | https://www.amazon.com/gp/product/0465085962?ie=UTF8&camp=1789&creativeASIN=0465085962&linkCode=xm2&tag=favobooks0b-20 | Books | David Weinberger |
-|  rossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) | https://www.amazon.com/gp/product/0062292986?ie=UTF8&camp=1789&creativeASIN=0062292986&linkCode=xm2&tag=favobooks0b-20 | Books | Geoffrey A. Moore |
-|  The Emperor's Handbook: A New Translation of The Meditations | https://www.amazon.com/gp/product/0743233832?ie=UTF8&camp=1789&creativeASIN=0743233832&linkCode=xm2&tag=favobooks0b-20 | Books | Marcus Aurelius |
-|  The Complete Story of Civilization | https://www.amazon.com/gp/product/B00HT53KV0?ie=UTF8&camp=1789&creativeASIN=B00HT53KV0&linkCode=xm2&tag=favobooks0b-20 | Books | Will Durant |
-|  The Tipping Point: How Little Things Can Make a Big Difference | https://www.amazon.com/gp/product/0316346624/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0316346624&linkCode=as2&tag=favobooks0b-20 | Books | Malcolm Gladwell |
-|  Blink: The Power of Thinking Without Thinking | https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0316010669&pd_rd_r=J48ZQRX1CT3NTH3Y3DKM&pd_rd_w=gqMwt&pd_rd_wg=i7Riu&psc=1&refRID=J48ZQRX1CT3NTH3Y3DKM | Books | Malcolm Gladwell |
-|  Letters from a Stoic | https://www.amazon.com/gp/product/0140442103?ie=UTF8&camp=1789&creativeASIN=0140442103&linkCode=xm2&tag=favobooks0b-20 | Books | Seneca |
-|  Meditations | https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=048629823X&pd_rd_r=QYWP9Z9XYN2W9CCG6HG5&pd_rd_w=cKr1Q&pd_rd_wg=3Kio3&psc=1&refRID=QYWP9Z9XYN2W9CCG6HG5 | Books | Marcus Aurelius |
-|  Discourses and Selected Writings | https://www.amazon.com/Discourses-Selected-Writings-Penguin-Classics/dp/0140449469/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0140449469&pd_rd_r=QYWP9Z9XYN2W9CCG6HG5&pd_rd_w=cKr1Q&pd_rd_wg=3Kio3&psc=1&refRID=QYWP9Z9XYN2W9CCG6HG5 | Books | Epictetus |
-|  On The Shortness Of Life | https://www.amazon.com/Shortness-Life-Seneca/dp/1941129420/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1941129420&pd_rd_r=QYWP9Z9XYN2W9CCG6HG5&pd_rd_w=cKr1Q&pd_rd_wg=3Kio3&psc=1&refRID=QYWP9Z9XYN2W9CCG6HG5 | Books | Seneca |
-|  The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk! | https://www.amazon.com/gp/product/0887306667?ie=UTF8&camp=1789&creativeASIN=0887306667&linkCode=xm2&tag=favobooks0b-20 | Books | Al Ries & Jack Trout |
-|  Delivering Happiness: A Path to Profits, Passion, and Purpose; A Round Table Comic | https://www.amazon.com/gp/product/1610660242?ie=UTF8&camp=1789&creativeASIN=1610660242&linkCode=xm2&tag=favobooks0b-20 | Books | Tony Hsieh |
-|  Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application | https://www.amazon.com/gp/product/0578012812?ie=UTF8&camp=1789&creativeASIN=0578012812&linkCode=xm2&tag=favobooks0b-20 | Books | Jason Fried, Heinemeier David Hansson, Matthew Linderman |
-|  How Will You Measure Your Life?  | https://www.amazon.com/gp/product/B006ID0CH4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006ID0CH4&linkCode=as2&tag=favobooks0b-20 | Books | Clayton M. Christensen |
-|  April 1865: The Month That Saved America (P.S.)  | https://www.amazon.com/gp/product/0060899689/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0060899689&linkCode=as2&tag=favobooks0b-20 | Books | Jay Winik |
-|  The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | https://www.amazon.com/gp/product/0743269519/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0743269519&linkCode=as2&tag=favobooks0b-20 | Books | Stephen R. Covey |
-|  Lincoln | https://www.amazon.com/gp/product/068482535X?ie=UTF8&camp=1789&creativeASIN=068482535X&linkCode=xm2&tag=favobooks0b-20 | Books | David Herbert Donald |
-|  King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa | https://www.amazon.com/gp/product/0618001905?ie=UTF8&camp=1789&creativeASIN=0618001905&linkCode=xm2&tag=favobooks0b-20 | Books | Adam Hochschild |
-|  Nonzero: The Logic of Human Destiny | https://www.amazon.com/gp/product/0679758941?ie=UTF8&camp=1789&creativeASIN=0679758941&linkCode=xm2&tag=favobooks0b-20 | Books | Robert Wright |
+|  My Inventions: The Autobiography of Nikola Tesla | https://www.amazon.com/gp/product/161293093X | Books | Nikola Tesla |
+|  Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) | https://www.amazon.com/gp/product/0393316041 | Books | Richard Feynman |
+|  "What Do You Care What Other People Think?": Further Adventures of a Curious Character | https://www.amazon.com/gp/product/0393320928 | Books | Richard Feynman |
+|  QED: The Strange Theory of Light and Matter (Princeton Science Library) | https://www.amazon.com/gp/product/0691164096 | Books | Richard Feynman |
+|  The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books) | https://www.amazon.com/gp/product/0465023959 | Books | Richard Feynman |
+|  Flow: The Psychology of Optimal Experience (Harper Perennial Modern Classics) | https://www.amazon.com/gp/product/0061339202 | Books | Mihaly Csikszentmihalyi |
+|  The Power of Now: A Guide to Spiritual Enlightenment | https://www.amazon.com/gp/product/1577314808 | Books | Eckhart Tolle |
+|  Tao Te Ching | https://www.amazon.com/gp/product/0060812451 | Books | Laozi |
+|  The Black Swan: Second Edition: The Impact of the Highly Improbable: With a new section: "On Robustness and Fragility" (Incerto) | https://www.amazon.com/gp/product/081297381X | Books | Nassim Nicholas Taleb |
+|  Hackers & Painters: Big Ideas from the Computer Age | https://www.amazon.com/gp/product/1449389554 | Books | Paul Graham |
+|  The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World (Perigee Book.) | https://www.amazon.com/gp/product/0399536108 | Books | Chris Guillebeau |
+|  An Introduction to Zen Buddhism | https://www.amazon.com/gp/product/0802130550 | Books | D. T. Suzuki & Carl Jung |
+|  The 48 Laws of Power | https://www.amazon.com/gp/product/0140280197 | Books | Robert Greene |
+|  The Design of Everyday Things: Revised and Expanded Edition | https://www.amazon.com/gp/product/0465050654 | Books | Don Norman |
+|  The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism | https://www.amazon.com/gp/product/1591845947 | Books | Olivia Fox Cabane |
+|  Now, Discover Your Strengths | https://www.amazon.com/gp/product/0743201140 | Books | Marcus Buckingham & Donald O. Clifton |
+|  The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898 | Books | Eric Ries |
+|  How Companies Win: Profiting from Demand-Driven Business Models No Matter What Business You’re In | https://www.amazon.com/gp/product/0062000454 | Books | Rick Kash & David Calhoun |
+|  The Big Short: Inside the Doomsday Machine | https://www.amazon.com/gp/product/0393338827 | Books | Michael Lewis |
+|  Conscious Business: How to Build Value through Values | https://www.amazon.com/gp/product/1622032020 | Books | Fred Kofman |
+|  Leaving Microsoft to Change the World: An Entrepreneur’s Odyssey to Educate the World’s Children | https://www.amazon.com/Leaving-Microsoft-Change-World-Entrepreneurs/dp/0061121088 | Books | John Wood |
+|  Structures: Or Why Things Don't Fall Down | https://www.amazon.com/gp/product/0306812835 | Books | J. E. Gordan |
+|  The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials) | https://www.amazon.com/gp/product/0060833459 | Books | Peter Drucker |
+|  Built to Last: Successful Habits of Visionary Companies | https://www.amazon.com/gp/product/0060566108 | Books | Jim Collins |
+|  Good to Great: Why Some Companies Make the Leap and Others Don't | https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996 | Books | Jim Collins |
+|  Competing Against Time: How Time-Based Competition is Reshaping Global Markets | https://www.amazon.com/gp/product/0743253418 | Books | George Stalk |
+|  Search Inside Yourself: The Unexpected Path to Achieving Success, Happiness (and World Peace) | https://www.amazon.com/gp/product/0062116932 | Books | Chade-Meng Tan |
+|  The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom | https://www.amazon.com/gp/product/0465028020 | Books | Jonathan Haidt |
+|  Outliers: The Story of Success | https://www.amazon.com/gp/product/0316017930 | Books | Malcolm Gladwell |
+|  The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | https://www.amazon.com/gp/product/0307951529 | Books | Chris Guillebeau |
+|  Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization | https://www.amazon.com/gp/product/0061251321 | Books | Dave Logan, John King, Halee Fischer-Wright |
+|  Peak: How Great Companies Get Their Mojo from Maslow | https://www.amazon.com/gp/product/0787988618 | Books | Chip Conley |
+|  Benjamin Franklin: An American Life | https://www.amazon.com/gp/product/074325807X | Books | Walter Isaacson |
+|  Howard Hughes: His Life and Madness | https://www.amazon.com/gp/product/0393326020 | Books | Donald L. Barlett & James B. Steele |
+|  Tesla: Inventor of the Electrical Age | https://www.amazon.com/gp/product/0691057761 | Books | W. Bernard Carlson |
+|  Ignition!: An informal history of liquid rocket propellants | https://www.amazon.com/gp/product/0813507251 | Books | John D. Clark |
+|  The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | https://www.amazon.com/gp/product/0062273205 | Books | Ben Horowitz |
+|  Zero to One: Notes on Startups, or How to Build the Future | https://www.amazon.com/gp/product/0804139296 | Books | Peter Thiel |
+|  The Facebook Effect: The Inside Story of the Company That Is Connecting the World | https://www.amazon.com/gp/product/1439102120 | Books | David Kirkpatrick |
+|  Nonviolent Communication: A Language of Life | https://www.amazon.com/gp/product/1892005034 | Books | Marshall B. Rosenberg |
+|  Long Walk to Freedom: The Autobiography of Nelson Mandela | https://www.amazon.com/gp/product/0316548189 | Books | Nelson Mandela |
+|  Mao: The Unknown Story | https://www.amazon.com/gp/product/0679746323 | Books | Jung Chang & Jon Halliday |
+|  In-N-Out Burger: A Behind-the-Counter Look at the Fast-Food Chain That Breaks All the Rules | https://www.amazon.com/gp/product/0061346721 | Books | Stacy Perman |
+|  Wild Swans: Three Daughters of China | https://www.amazon.com/gp/product/0743246985 | Books | Jung Chang   |
+|  The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business | https://www.amazon.com/gp/product/0062060244 | Books | Clayton M. Christensen |
+|  Direct from Dell: Strategies that Revolutionized an Industry (Collins Business Essentials) | https://www.amazon.com/gp/product/0060845724 | Books | Michael Dell |
+|  Principles: Life and Work | https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Books | Ray Dalio |
+|  Leonardo da Vinci | https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150 | Books | Walter Isaacson |
+|  Einstein: His Life and Universe | https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746 | Books | Walter Isaacson |
+|  Steve Jobs | https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1501127624 | Books | Walter Isaacson |
+|  The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution | https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703 | Books | Walter Isaacson |
+|  Kissinger: A Biography | https://www.amazon.com/Kissinger-Biography-Walter-Isaacson/dp/0743286979 | Books | Walter Isaacson |
+|  Sapiens: A Brief History of Humankind | https://www.amazon.com/Sapiens-History-Humankind-Yuval-Harari/dp/0062316095 | Books | Yuval Noah Harari |
+|  Homo Deus: A Brief History of Tomorrow | https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310 | Books | Yuval Noah Harari |
+|  Undaunted Courage: Meriwether Lewis, Thomas Jefferson, and the Opening of the American West | https://www.amazon.com/gp/product/0684826976 | Books | Stephen Ambrose |
+|  A Short History of Nearly Everything: Special Illustrated Edition | https://www.amazon.com/gp/product/0307885151 | Books | Bill Bryson |
+|  Jack: Straight from the Gut | https://www.amazon.com/gp/product/0446690686 | Books | Jack Welch & John A. Byrne |
+|  Sam Walton: Made In America | https://www.amazon.com/gp/product/0553562835 | Books | Sam Walton |
+|  Security Analysis: Sixth Edition, Foreword by Warren Buffett (Security Analysis Prior Editions) | https://www.amazon.com/gp/product/0071592539 | Books | Benjamin Graham & David Dodd |
+|  The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition) (Collins Business Essentials) | https://www.amazon.com/gp/product/0060555661 | Books | Benjamin Graham   |
+|  The History of the Decline and Fall of the Roman Empire, Vol. 1 | https://www.amazon.com/gp/product/0140433937 | Books | Edward Gibbon |
+|  The Trial and Death of Socrates | https://www.amazon.com/gp/product/0872205541 | Books | Plato |
+|  Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor | https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105 | Books | Seth Klarman |
+|  Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger, Expanded Third Edition | https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018 | Books | Charles Munger |
+|  Berkshire Hathaway Letters to Shareholders | https://www.amazon.com/Berkshire-Hathaway-Letters-Shareholders-Buffett/dp/0615975070 | Books | Warren Buffett |
+|  The Checklist Manifesto: How to Get Things Right | https://www.amazon.com/gp/product/0312430000 | Books | Atul Gawande |
+|  The Fountainhead | https://www.amazon.com/gp/product/0452273331 | Books | Ayn Rand |
+|  The Singularity Is Near: When Humans Transcend Biology | https://www.amazon.com/gp/product/0143037889 | Books | Ray Kurzweil |
+|  Seeking Wisdom: From Darwin to Munger, 3rd Edition | https://www.amazon.com/gp/product/1578644283 | Books | Peter Bevelin |
+|  The Paradox of Choice: Why More Is Less | https://www.amazon.com/gp/product/0060005696 | Books | Barry Schwartz |
+|  The Tyranny of Experts: Economists, Dictators, and the Forgotten Rights of the Poor | https://www.amazon.com/gp/product/0465089739 | Books | William Easterly |
+|  Modelling Extremal Events: for Insurance and Finance (Stochastic Modelling and Applied Probability) | https://www.amazon.com/gp/product/3540609318 | Books | Paul Embrechts, Claudia Klüppelberg, Thomas Mikosch |
+|  The Kelly Capital Growth Investment Criterion: Theory and Practice (World Scientific Handbook in Financial Economics) | https://www.amazon.com/gp/product/9814383139 | Books | Leonard C. MacLean, Edward O. Thorp, William T. Ziemba |
+|  The Science of Conjecture: Evidence and Probability before Pascal | https://www.amazon.com/gp/product/1421418800 | Books | James Franklin |
+|  Probability, Random Variables and Stochastic Processes | https://www.amazon.com/gp/product/0071226613 | Books | Athanasios Papoulis, S. Unnikrishna Pillai |
+|  Mathematics: Its Content, Methods and Meaning (3 Volumes in One) | https://www.amazon.com/gp/product/0486409163 | Books | A. D. Aleksandrov, A. N. Kolmogorov,  M. A. Lavrent'ev |
+|  The Hour Between Dog and Wolf: Risk Taking, Gut Feelings and the Biology of Boom and Bust | https://www.amazon.com/gp/product/1594203385 | Books | John Coates |
+|  Information: The New Language of Science | https://www.amazon.com/gp/product/0674018575 | Books | Hans Christian von Baeyer |
+|  Statistical Models: Theory and Practice | https://www.amazon.com/gp/product/0521743850 | Books | David A. Freedman |
+|  The (Mis)behavior of Markets | https://www.amazon.com/gp/product/0465043550 | Books | Benoit B. Mandelbrot, Richard L. Hudson |
+|  A Guide to Econometrics. 6th edition | https://www.amazon.com/gp/product/1405182571 | Books | Peter Kennedy |
+|  Why Stock Markets Crash: Critical Events in Complex Financial Systems | https://www.amazon.com/gp/product/0691118507 | Books | Didier Sornette |
+|  My Years with General Motors | https://www.amazon.com/gp/product/0385042353 | Books | Alfred Sloan |
+|  The Better Angels of Our Nature: Why Violence Has Declined  | https://www.amazon.com/gp/product/0143122010 | Books | Steven Pinker |
+|  Business Adventures: Twelve Classic Tales from the World of Wall Street | https://www.amazon.com/gp/product/B00L1TPCKW | Books | John Brooks |
+|  SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | https://www.amazon.com/gp/product/B002R2OFGY | Books | Steven D. Levitt, Stephen J. Dubner |
+|  Freakonomics Rev Ed: A Rogue Economist Explores the Hidden Side of Everything | https://www.amazon.com/gp/product/B000MAH66Y | Books | Steven D. Levitt, Stephen J. Dubner |
+|  That Used to Be Us: How America Fell Behind in the World It Invented and How We Can Come Back | https://www.amazon.com/gp/product/1250013720 | Books | Thomas L. Friedman, Michael Mandelbaum |
+|  For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics | https://www.amazon.com/gp/product/145160713X | Books | Walter Lewin |
+|  The Language Instinct: How the Mind Creates Language (P.S.) | https://www.amazon.com/gp/product/0061336467 | Books | Steven Pinker |
+|  The Ten Commandments for Business Failure | https://www.amazon.com/gp/product/B0064XA83Q | Books | Donald R. Keough |
+|  Age Of Reason | https://www.amazon.com/gp/product/145656854X | Books | Thomas Paine |
+|  The Prince | https://www.amazon.com/gp/product/1613821719 | Books | Niccolo Machiavelli |
+|  The Art of War | https://www.amazon.com/gp/product/1936041758 | Books | Sun Tzu |
+|  The Principia (Great Minds) | https://www.amazon.com/gp/product/0879759801 | Books | Isaac Newton |
+|  The Origin of Species: 150th Anniversary Edition | https://www.amazon.com/gp/product/0451529065 | Books | Charles Darwin |
+|  The Wealth of Nations (Bantam Classics) | https://www.amazon.com/gp/product/0553585975 | Books | Adam Smith |
+|  The Communist Manifesto | https://www.amazon.com/Communist-Manifesto-Karl-Marx/dp/0717802418 | Books | Karl Marx |
+|  The General Theory of Employment, Interest, and Money | https://www.amazon.com/General-Theory-Employment-Interest-Money/dp/0156347113 | Books | John Maynard Keynes |
+|  Das Kapital: A Critque of Political Economy | https://www.amazon.com/Das-Kapital-Critque-Political-Economy/dp/145388632X | Books | Karl Marx |
+|  The Theory of Moral Sentiments | https://www.amazon.com/Theory-Moral-Sentiments-Adam-Smith/dp/1540584941 | Books | Adam Smith |
+|  Capitalism and Freedom: Fortieth Anniversary Edition | https://www.amazon.com/Capitalism-Freedom-Anniversary-Milton-Friedman/dp/0226264211 | Books | Milton Friedman |
+|  Milton Friedman: The Essential Collection | https://www.amazon.com/Milton-Friedman-Essential-Collection/dp/1635356911/ | Books | Milton Friedman |
+|  Free to Choose: A Personal Statement | https://www.amazon.com/Free-Choose-Statement-Milton-Friedman/dp/0156334607 | Books | Milton Friedman |
+|  A Treatise of Human Nature | https://www.amazon.com/gp/product/1466297468 | Books | David Hume |
+|  The Critique of Pure Reason | https://www.amazon.com/Critique-Pure-Reason-Immanuel-Kant/dp/1537260057 | Books | Immanuel Kant |
+|  Why Evolution Is True | https://www.amazon.com/gp/product/0143116649 | Books | Jerry A. Coyne |
+|  Why We Get Sick: The New Science of Darwinian Medicine | https://www.amazon.com/gp/product/0679746749 | Books | Randolph M. Nesse, George C. Williams |
+|  The Demon-Haunted World: Science as a Candle in the Dark | https://www.amazon.com/gp/product/0345409469 | Books | Carl Sagan |
+|  Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves | https://www.amazon.com/gp/product/0143118242 | Books | Andrew Ross Sorkin |
+|  The Ascent of Money: A Financial History of the World  | https://www.amazon.com/gp/product/0143116177 | Books | Niall Ferguson |
+|  When Genius Failed: The Rise and Fall of Long-Term Capital Management | https://www.amazon.com/gp/product/0375758259 | Books | Roger Lowenstein |
+|  Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions | https://www.amazon.com/gp/product/0061353248 | Books | Dan Ariely |
+|  Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) | https://www.amazon.com/gp/product/0262510871 | Books | Harold Abelson, Gerald Jay Sussman, Julie Sussman |
+|  The Gospel of Wealth (Dodo Press) | https://www.amazon.com/gp/product/1409942171 | Books | Andrew Carnegie |
+|  Rework | https://www.amazon.com/gp/product/0307463745 | Books | Jason Fried |
+|  The Only Investment Guide You'll Ever Need | https://www.amazon.com/gp/product/B002V1GZDM | Books | Andrew Tobias |
+|  Cold Calling Techniques: That Really Work | https://www.amazon.com/gp/product/1598691481 | Books | Stephan Schiffman |
+|  Call Me Ted | https://www.amazon.com/gp/product/B0044KN1PI | Books | Ted Turner |
+|  Civil Disobedience | https://www.amazon.com/gp/product/1505383935 | Books | Henry David Thoreau |
+|  The Social Contract (Penguin Books for Philosophy) | https://www.amazon.com/gp/product/0140442014 | Books | Jean-Jacques Rousseau |
+|  The Republic | https://www.amazon.com/gp/product/1503379981 | Books | Plato |
+|  Politics | https://www.amazon.com/gp/product/B01E4S1674 | Books | Plato |
+|  Nicomachean Ethics | https://www.amazon.com/gp/product/0872204642 | Books | Aristotle |
+|  Things Hidden Since the Foundation of the World | https://www.amazon.com/gp/product/0804722153 | Books | René Girard |
+|  Sir Francis Bacon: The New Atlantis | https://www.amazon.com/gp/product/1451537638 | Books | Francis Bacon |
+|  The Great Illusion: A Study of the Relation of Military Power to National Advantage | https://www.amazon.com/gp/product/B0073V8BGO | Books | Norman Angell |
+|  Grown Up Digital: How the Net Generation is Changing Your World | https://www.amazon.com/gp/product/0071508635 | Books | Don Tapscott |
+|  Information Rules: A Strategic Guide to the Network Economy | https://www.amazon.com/gp/product/087584863X | Books | Carl Shapiro, Hal R. Varian |
+|  Artful Making: What Managers Need to Know About How Artists Work  | https://www.amazon.com/gp/product/0130086959 | Books | Robert Austin, Lee Devin |
+|  The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field | https://www.amazon.com/gp/product/1591844886 | Books | Mike Michalowicz |
+|  A Whole New Mind: Why Right-Brainers Will Rule the Future | https://www.amazon.com/gp/product/1594481717 | Books | Daniel Pink |
+|  Your Marketing Sucks: 10th Anniversary Edition | https://www.amazon.com/gp/product/1496140672 | Books | Mark Stevens |
+|  Zag: The Number One Strategy of High-Performance Brands  | https://www.amazon.com/gp/product/0321426770 | Books | Marty Neuemeier |
+|  The Pursuit of Wow! Every Person's Guide to Topsy-Turvy Times | https://www.amazon.com/gp/product/0679755551 | Books | Tom Peters |
+|  Too Big to Know: Rethinking Knowledge Now That the Facts Aren't the Facts, Experts Are Everywhere, and the Smartest Person in the Room Is the Room | https://www.amazon.com/gp/product/0465085962 | Books | David Weinberger |
+|  rossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers (Collins Business Essentials) | https://www.amazon.com/gp/product/0062292986 | Books | Geoffrey A. Moore |
+|  The Emperor's Handbook: A New Translation of The Meditations | https://www.amazon.com/gp/product/0743233832 | Books | Marcus Aurelius |
+|  The Complete Story of Civilization | https://www.amazon.com/gp/product/B00HT53KV0 | Books | Will Durant |
+|  The Tipping Point: How Little Things Can Make a Big Difference | https://www.amazon.com/gp/product/0316346624 | Books | Malcolm Gladwell |
+|  Blink: The Power of Thinking Without Thinking | https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669 | Books | Malcolm Gladwell |
+|  Letters from a Stoic | https://www.amazon.com/gp/product/0140442103 | Books | Seneca |
+|  Meditations | https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius/dp/048629823X | Books | Marcus Aurelius |
+|  Discourses and Selected Writings | https://www.amazon.com/Discourses-Selected-Writings-Penguin-Classics/dp/0140449469 | Books | Epictetus |
+|  On The Shortness Of Life | https://www.amazon.com/Shortness-Life-Seneca/dp/1941129420 | Books | Seneca |
+|  The 22 Immutable Laws of Marketing: Violate Them at Your Own Risk! | https://www.amazon.com/gp/product/0887306667 | Books | Al Ries & Jack Trout |
+|  Delivering Happiness: A Path to Profits, Passion, and Purpose; A Round Table Comic | https://www.amazon.com/gp/product/1610660242 | Books | Tony Hsieh |
+|  Getting Real: The Smarter, Faster, Easier Way to Build a Successful Web Application | https://www.amazon.com/gp/product/0578012812 | Books | Jason Fried, Heinemeier David Hansson, Matthew Linderman |
+|  How Will You Measure Your Life?  | https://www.amazon.com/gp/product/B006ID0CH4 | Books | Clayton M. Christensen |
+|  April 1865: The Month That Saved America (P.S.)  | https://www.amazon.com/gp/product/0060899689 | Books | Jay Winik |
+|  The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | https://www.amazon.com/gp/product/0743269519 | Books | Stephen R. Covey |
+|  Lincoln | https://www.amazon.com/gp/product/068482535X | Books | David Herbert Donald |
+|  King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa | https://www.amazon.com/gp/product/0618001905 | Books | Adam Hochschild |
+|  Nonzero: The Logic of Human Destiny | https://www.amazon.com/gp/product/0679758941 | Books | Robert Wright |
 |  The Way of the World: From the Dawn of Civilizations to the Eve of the Twenty-first Century | https://www.amazon.com/Way-World-Civilizations-Twenty-first-Century/dp/0679766693 | Books | David Fromkin |
-|  Self-Reliance and Other Essays (Dover Thrift Editions) | https://www.amazon.com/gp/product/0486277909/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486277909&linkCode=as2&tag=favobooks0b-20 | Books | Ralph Waldo Emerson |
-|  The Federalist Papers | https://www.amazon.com/gp/product/1936594404/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1936594404&linkCode=as2&tag=favobooks0b-20 | Books | Alexander Hamilton, James Madison, John Jay |
-|  FDR | https://www.amazon.com/gp/product/0812970497/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812970497&linkCode=as2&tag=favobooks0b-20 | Books | Jean Edward Smith |
-|  Great Dialogues of Plato | https://www.amazon.com/gp/product/0451530853?ie=UTF8&camp=1789&creativeASIN=0451530853&linkCode=xm2&tag=favobooks0b-20 | Books | Plato |
-|  The Alchemist  | https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005/ref=sr_1_1?s=books&ie=UTF8&qid=1512666846&sr=1-1&keywords=alchemist | Books | Paulo Coelho |
+|  Self-Reliance and Other Essays (Dover Thrift Editions) | https://www.amazon.com/gp/product/0486277909 | Books | Ralph Waldo Emerson |
+|  The Federalist Papers | https://www.amazon.com/gp/product/1936594404 | Books | Alexander Hamilton, James Madison, John Jay |
+|  FDR | https://www.amazon.com/gp/product/0812970497 | Books | Jean Edward Smith |
+|  Great Dialogues of Plato | https://www.amazon.com/gp/product/0451530853 | Books | Plato |
+|  The Alchemist  | https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0062315005 | Books | Paulo Coelho |
 |  On Lisp | http://paulgraham.com/onlisp.html | Books | Paul Graham |
 |  ANSI Common LISP | https://www.amazon.com/exec/obidos/ASIN/0133708756 | Books | Paul Graham |
 |  General and Surprising | http://paulgraham.com/sun.html | Blogs | Paul Graham |
@@ -377,9 +377,9 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich | https://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357?tag=offsitoftimfe-20 | Books | Tim Ferriss |
 |  The Beginning of Infinity: Explanations That Transform the World  | https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359?tag=offsitoftimfe-20 | Books | David Deutsch |
 |  Mastery: The Keys to Success and Long-Term Fulfillment | https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560?tag=offsitoftimfe-20 | Books | George Leonard |
-|  The War of Art: Winning the Inner Creative Battle | https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?s=books&ie=UTF8&qid=1512684899&sr=1-1&keywords=the+war+of+art | Books | Steven Pressfield |
+|  The War of Art: Winning the Inner Creative Battle | https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026 | Books | Steven Pressfield |
 |  The Hero with a Thousand Faces (The Collected Works of Joseph Campbell) | https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell/dp/1577315936?tag=offsitoftimfe-20 | Books | Joseph Campbell |
-|  Wit and Wisdom from Poor Richard's Almanack (Dover Thrift Editions) | https://www.amazon.com/Wisdom-Richards-Almanack-Thrift-Editions/dp/0486408914/ref=sr_1_1?s=books&ie=UTF8&qid=1512684959&sr=1-1&keywords=poor+richards+almanack | Books | Benjamin Franklin |
+|  Wit and Wisdom from Poor Richard's Almanack (Dover Thrift Editions) | https://www.amazon.com/Wisdom-Richards-Almanack-Thrift-Editions/dp/0486408914 | Books | Benjamin Franklin |
 |  Finite and Infinite Games | https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713?tag=offsitoftimfe-20 | Books | James Carse |
 |  Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice | https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492?tag=offsitoftimfe-20 | Books | Shunryu Suzuki |
 |  Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers | https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788?tag=offsitoftimfe-20 | Books | Tim Ferriss |
@@ -387,7 +387,7 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  The Open Society and Its Enemies | https://www.amazon.com/Open-Society-Its-Enemies/dp/0691158134/?tag=offsitoftimfe-20 | Books | Karl R. Popper |
 |  The Autobiography of Malcolm X: As Told to Alex Haley | https://www.amazon.com/Autobiography-Malcolm-Told-Alex-Haley/dp/0345350685?tag=offsitoftimfe-20 | Books | Malcom X, Alex Haley |
 |  The Rational Optimist: How Prosperity Evolves (P.s.) | https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-S/dp/0061452068?tag=offsitoftimfe-20 | Books | Matt Ridley |
-|  Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts | https://www.amazon.com/Mistakes-Were-Made-but-Not/dp/0544574788/ref=sr_1_1?s=books&ie=UTF8&qid=1512685284&sr=1-1&keywords=mistakes+were+made | Books | Carol Tavris, Elliot Aronson |
+|  Mistakes Were Made (but Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts | https://www.amazon.com/Mistakes-Were-Made-but-Not/dp/0544574788 | Books | Carol Tavris, Elliot Aronson |
 |  The Transformed Cell: Unlocking the Mysteries of Cancer | https://www.amazon.com/Transformed-Cell-Unlocking-Mysteries-Cancer/dp/0380721155?tag=offsitoftimfe-20 | Books | Steven A. Rosenberg, John M. Barry |
 |  What Is Zen?: Plain Talk for a Beginner's Mind  | https://www.amazon.com/What-Zen-Plain-Talk-Beginners/dp/1611802431?tag=offsitoftimfe-20 | Books | Norman Fischer, Susan Moon |
 |  Crush It!: Why NOW Is the Time to Cash In on Your Passion | https://www.amazon.com/Crush-Time-Cash-Your-Passion/dp/0061914177?tag=offsitoftimfe-20 | Books | Gary Vaynerchuk |
@@ -429,7 +429,7 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Remix: Making Art and Commerce Thrive in the Hybrid Economy | https://www.amazon.com/Remix-Making-Commerce-Thrive-Economy/dp/0143116134?tag=offsitoftimfe-20 | Books | Lawrence Lessig |
 |  Musicophilia: Tales of Music and the Brain, Revised and Expanded Edition | https://www.amazon.com/Musicophilia-Tales-Music-Revised-Expanded/dp/1400033535?tag=offsitoftimfe-20 | Books | Oliver Sacks |
 |  The Doctor and the Soul: From Psychotherapy to Logotherapy, Revised and Expanded | https://www.amazon.com/Doctor-Soul-Psychotherapy-Logotherapy-Expanded/dp/0394743172?tag=offsitoftimfe-20 | Books | Viktor E. Frankl |
-|  Superintelligence: Paths, Dangers, Strategies | https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=sr_1_1?s=books&ie=UTF8&qid=1512687239&sr=1-1&keywords=super+intelligence+book | Books | Nick Bostrom |
+|  Superintelligence: Paths, Dangers, Strategies | https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834 | Books | Nick Bostrom |
 |  Memories, Dreams, Reflections | https://www.amazon.com/Memories-Dreams-Reflections-C-Jung/dp/0679723951?tag=offsitoftimfe-20 | Books | Carl Jung |
 |  Propaganda | https://www.amazon.com/Propaganda-Edward-Bernays/dp/0970312598/?tag=offsitoftimfe-20 | Books | Edward Bernays |
 |  The Scientist In The Crib: Minds, Brains, And How Children Learn | https://www.amazon.com/Scientist-Crib-Minds-Brains-Children-ebook/dp/B00134XEU0?tag=offsitoftimfe-20 | Books | Alison Gopnik |
@@ -588,7 +588,7 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Joseph Tussman: Getting the World to Do the Work for You | https://www.farnamstreetblog.com/2016/02/joseph-tussman/ | Blogs | Farnam Street |
 |  Nassim Taleb: A Definition of Antifragile and its Implications | https://www.farnamstreetblog.com/2014/04/antifragile-a-definition/ | Blogs | Farnam Street |
 |  Galilean Relativity and the Invasion of Scotland | https://www.farnamstreetblog.com/2017/05/galilean-relativity-invasion-scotland/ | Blogs | Farnam Street |
-|  The Third Horseman: Climate Change and the Great Famine of the 14th Century | https://www.amazon.com/gp/product/0670025895/ref=as_at/?imprToken=h9z-90GmcKiOmI7g.Wqhxw&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0670025895&linkId=4137cd69036ffe1bd1ad35553cb6db18 | Books | William Rosen |
+|  The Third Horseman: Climate Change and the Great Famine of the 14th Century | https://www.amazon.com/gp/product/0670025895 | Books | William Rosen |
 |  Activation Energy: Why Getting Started is The Hardest Part | https://www.farnamstreetblog.com/2017/06/activation-energy/ | Blogs | Farnam Street |
 |  Leverage: Gaining Disproportionate Strength | https://www.farnamstreetblog.com/2017/06/leverage/ | Blogs | Farnam Street |
 |  The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place | https://www.farnamstreetblog.com/2012/10/the-red-queen-effect/ | Blogs | Farnam Street |
@@ -672,84 +672,84 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  What Can Chain Letters Teach us about Natural Selection? | https://www.farnamstreetblog.com/2016/01/natural-selection-of-chain-letters/ | Blogs | Farnam Street |
 |  3 Things You Should Know About the Availability Heuristic | https://www.farnamstreetblog.com/2011/08/mental-model-availability-bias/ | Blogs | Farnam Street |
 |  Insensitivity To Base Rates: An Introduction | https://www.farnamstreetblog.com/2012/11/mental-model-bias-from-insensitivity-to-base-rates/ | Blogs | Farnam Street |
-|  Everyday Irrationality: How Pseudo- Scientists, Lunatics, And The Rest Of Us Systematically Fail To Think Rationally | https://www.amazon.com/Everyday-Irrationality-Scientists-Systematically-Rationally/dp/0813340268/ref=as_at?creativeASIN=0813340268&imprToken=JNpZpfzFqPAjCqz0jjUK1Q&slotNum=2&ie=UTF8&tag=farnamstreet-20&link_code=btl&camp=213689&creative=392969 | Books | Robyn Dawes |
-|  Smart Choices: A Practical Guide to Making Better Decisions | https://www.amazon.com/gp/product/0767908864/ref=as_at/?imprToken=7xGTVl4kOYDq8MM.c5EwWg&slotNum=0&ie=UTF8&camp=1789&creative=9325&creativeASIN=0767908864&linkCode=w61&tag=farnamstreet-20 | Books | John S. Hammond |
-|  Judgment in Managerial Decision Making | https://www.amazon.com/gp/product/0470049456/ref=as_at/?imprToken=7xGTVl4kOYDq8MM.c5EwWg&slotNum=1&ie=UTF8&camp=1789&creative=9325&creativeASIN=0470049456&linkCode=w61&tag=farnamstreet-20 | Blogs | Farnam Street |
+|  Everyday Irrationality: How Pseudo- Scientists, Lunatics, And The Rest Of Us Systematically Fail To Think Rationally | https://www.amazon.com/Everyday-Irrationality-Scientists-Systematically-Rationally/dp/0813340268 | Books | Robyn Dawes |
+|  Smart Choices: A Practical Guide to Making Better Decisions | https://www.amazon.com/gp/product/0767908864 | Books | John S. Hammond |
+|  Judgment in Managerial Decision Making | https://www.amazon.com/gp/product/0470049456 | Blogs | Farnam Street |
 |  The Sanjay Bakshi Way | http://www.safalniveshak.com/wp-content/uploads/2012/08/Value-Investing-The-Sanjay-Bakshi-Way-Safal-Niveshak-Special.pdf | Documents | Vishal Khandelwal |
-|  The Principles of Psychology, Vol.1 | https://www.amazon.com/Principles-Psychology-Vol-1-William-James/dp/1602062846/ref=as_at?creativeASIN=1602062846&imprToken=JNpZpfzFqPAjCqz0jjUK1Q&slotNum=3&ie=UTF8&tag=farnamstreet-20&link_code=btl&camp=213689&creative=392969 | Books | William James |
+|  The Principles of Psychology, Vol.1 | https://www.amazon.com/Principles-Psychology-Vol-1-William-James/dp/1602062846 | Books | William James |
 |  How to Dispel Your Illusions | http://www.nybooks.com/articles/2011/12/22/how-dispel-your-illusions/ | Blogs | Freeman Dyson |
 |  Social Proof: Why We Look to Others For What We Should Think and Do | https://www.farnamstreetblog.com/2009/09/mental-model-social-proof/ | Blogs | Farnam Street |
-|  The Power of Positive Deviance: How Unlikely Innovators Solve the World's Toughest Problems | https://www.amazon.com/gp/product/1422110664/ref=as_at/?imprToken=U.SBuhHcZwu7w1vA1Z0mHw&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1422110664&linkId=dd316fc8db9653042f517e134497706c | Blogs | Richard Pascale |
+|  The Power of Positive Deviance: How Unlikely Innovators Solve the World's Toughest Problems | https://www.amazon.com/gp/product/1422110664 | Blogs | Richard Pascale |
 |  The Narrative Fallacy and What You Can Do About It | https://www.farnamstreetblog.com/2016/04/narrative-fallacy/ | Blogs | Farnam Street |
-|  The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator | https://www.amazon.com/gp/product/1590315456/ref=as_at/?imprToken=U.SBuhHcZwu7w1vA1Z0mHw&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1590315456&linkId=94d7a1864c77afc88e3af16a0bc09485 | Books | Andrea Kupfer Schneider |
+|  The Negotiator's Fieldbook: The Desk Reference for the Experienced Negotiator | https://www.amazon.com/gp/product/1590315456 | Books | Andrea Kupfer Schneider |
 |  The Psychology of Persuasion | https://www.farnamstreetblog.com/2014/04/influence-psychology-persuasion/ | Blogs | Farnam Street |
 |  Mental Model: Bias from Insensitivity to Sample Size | https://www.farnamstreetblog.com/2013/05/mental-model-bias-from-insensitivity-to-sample-size/ | Blogs | Farnam Street |
-|  Moneyball | https://www.amazon.com/gp/product/0393338398/ref=as_at/?imprToken=8g2MlsAL0YzGnSvpVvUSug&slotNum=4&ie=UTF8&camp=1789&creative=9325&creativeASIN=0393338398&linkCode=w61&tag=farnamstreet-20 | Books | Michael Lewis |
+|  Moneyball | https://www.amazon.com/gp/product/0393338398 | Books | Michael Lewis |
 |  Promoting People In Organizations | https://www.farnamstreetblog.com/2011/08/promoting-people-in-organizations/ | Books | Farnam Street |
 |  Mental Model: Commitment and Consistency Bias | https://www.farnamstreetblog.com/2016/08/commitment-consistency-bias/ | Blogs | Farnam Street |
 |  Eager to Be Wrong | https://www.farnamstreetblog.com/2016/05/eager-to-be-wrong/ | Blogs | Farnam Street |
 |  How Darwin Thought: Follow the Golden Rule of Thinking | https://www.farnamstreetblog.com/2016/01/charles-darwin-thinker/ | Blogs | Farnam Street |
 |  Stronger: Developing Personal Resilience and Becoming Antifragile | https://www.farnamstreetblog.com/2015/11/antifragile-life/ | Blogs | Farnam Street |
-|  Too Much Invested to Quit: Pergamon General Psychology Series | https://www.amazon.com/gp/product/1483119807/ref=as_at/?imprToken=FMuxzoHQVqsh1tJZ7faFQg&slotNum=3&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1483119807&linkId=92aec1bdbab87ecef7bbb6abcb1e3f33 | Books | Allan I. Teger |
+|  Too Much Invested to Quit: Pergamon General Psychology Series | https://www.amazon.com/gp/product/1483119807 | Books | Allan I. Teger |
 |  Hindsight Bias | https://www.farnamstreetblog.com/2009/08/what-is-hindsight-bias/ | Blogs | Farnam Street |
-|  Social Cognition: Making Sense of People | https://www.amazon.com/gp/product/0262611430/ref=as_at?imprToken=JxgqjnAhQ6yMHi9953VVeQ&slotNum=1&ie=UTF8&tag=farnamstreet-20&linkCode=w61&camp=1789&creative=9325&creativeASIN=0262611430 | Books | Ziva Kunda |
-|  Jury Selection | https://www.amazon.com/gp/product/0735515727/ref=as_at?imprToken=JxgqjnAhQ6yMHi9953VVeQ&slotNum=2&ie=UTF8&tag=farnamstreet-20&linkCode=w61&camp=1789&creative=9325&creativeASIN=0735515727 | Books | V. Hale Starr |
-|  Principles of Forecasting: A Handbook for Researchers and Practitioners (International Series in Operations Research & Management Science) | https://www.amazon.com/gp/product/0792379306/ref=as_at?imprToken=JxgqjnAhQ6yMHi9953VVeQ&slotNum=3&ie=UTF8&tag=farnamstreet-20&linkCode=w61&camp=1789&creative=9325&creativeASIN=0792379306 | Books | J.S. Armstrong |
+|  Social Cognition: Making Sense of People | https://www.amazon.com/gp/product/0262611430 | Books | Ziva Kunda |
+|  Jury Selection | https://www.amazon.com/gp/product/0735515727 | Books | V. Hale Starr |
+|  Principles of Forecasting: A Handbook for Researchers and Practitioners (International Series in Operations Research & Management Science) | https://www.amazon.com/gp/product/0792379306 | Books | J.S. Armstrong |
 |  Charlie Munger: Academic Economics — Strengths and Weaknesses, after Considering Interdisciplinary Needs | https://www.farnamstreetblog.com/2015/03/charlie-munger-academic-economics/ | Blogs | Farnam Street |
 |  Kantian Fairness Tendency: The World Isn’t Fair | https://www.farnamstreetblog.com/2011/09/mental-model-kantian-fairness-tendency/ | Blogs | Farnam Street |
 |  The Fundamental Attribution Error: Why Predicting Behavior is so Hard | https://www.farnamstreetblog.com/2016/08/fundamental-attribution-error/ | Blogs | Farnam Street |
 |  Henry Ford and the Actual Value of Education | https://www.farnamstreetblog.com/2016/07/henry-ford-actual-value-education/ | Blogs | Farnam Street |
-|  My Life and Work: The Autobiography of Henry Ford | https://www.amazon.com/gp/product/1535091061/ref=as_at/?imprToken=YC19Z5dQESTkIMMbhqM3QQ&slotNum=0&ie=UTF8&tag=noisefreeinve-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1535091061&linkId=2774a5faf226c82cf0eb918ed092c62b | Books | Henry Ford |
+|  My Life and Work: The Autobiography of Henry Ford | https://www.amazon.com/gp/product/1535091061 | Books | Henry Ford |
 |  Dan Ariely on How and Why We Cheat | https://www.farnamstreetblog.com/2015/12/dan-ariely-on-why-and-how-we-cheat/ | Blogs | Farnam Street |
 |  Need to Improve your Relations with Others? Start by Getting Human Nature Right | https://www.farnamstreetblog.com/2016/01/human-nature-relatiionships/ | Blogs | Farnam Street |
 |  Do Something Syndrome: Why We Feel Compelled to Act | https://www.farnamstreetblog.com/2015/06/do-something-syndrome/ | Blogs | Farnam Street |
 |  The Work Required To Have An Opinion | https://www.farnamstreetblog.com/2013/04/the-work-required-to-have-an-opinion/ | Blogs | Farnam Street |
 |  Iatrogenics: Why Intervention Often Leads to Worse Outcomes | https://www.farnamstreetblog.com/2013/10/iatrogenics/ | Blogs | Farnam Street |
-|  Washington: A Life | https://www.amazon.com/Washington-Life-Ron-Chernow/dp/0143119966/ref=as_at/?imprToken=1VAD4pjQatZefCuAEVRK2A&slotNum=0&ie=UTF8&qid=1487609402&sr=8-1&keywords=ron+chernow+washington+a+life&linkCode=sl1&tag=farnamstreet-20&linkId=3c9ad59bf89a9a0a3d13bfaaeefbf5ef | Books | Ron Chernow |
-|  Perilous Interventions: The Security Council and the Politics of Chaos | https://www.amazon.com/gp/product/9351777596/ref=as_at/?imprToken=1VAD4pjQatZefCuAEVRK2A&slotNum=1&ie=UTF8&tag=noisefreeinve-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=9351777596&linkId=bfa2eb791b6e8a682152d0ffc06ddf54 | Books | Hardeep Singh Puri |
+|  Washington: A Life | https://www.amazon.com/Washington-Life-Ron-Chernow/dp/0143119966 | Books | Ron Chernow |
+|  Perilous Interventions: The Security Council and the Politics of Chaos | https://www.amazon.com/gp/product/9351777596 | Books | Hardeep Singh Puri |
 |  Homeostasis and Why We Backslide | https://www.farnamstreetblog.com/2016/06/why-do-we-backslide-on-our-goals/ | Blogs | Farnam Street |
 |  Opinions and Organizational Theory | https://www.farnamstreetblog.com/2013/04/opinions-and-organizational-theory/ | Blogs | Farnam Street |
 |  Much of What You’re Going to Do or Say Today is Not Essential | https://www.farnamstreetblog.com/2013/10/what-you-do-today-is-not-essential/ | Blogs | Farnam Street |
 |  Mental Model: The Principles of Comparative Advantage | https://www.farnamstreetblog.com/2009/08/should-tiger-woods-mow-his-own-lawn-the-principles-of-comparative-advantage/ | Blogs | Farnam Street |
 |  Mental Model: Supply and Demand | https://www.farnamstreetblog.com/2009/07/mental-model-supply-and-demand/ | Blogs | Farnam Street |
-|  Principles of Microeconomics (Mankiw's Principles of Economics) | https://www.amazon.com/gp/product/0538453044/ref=as_at/?imprToken=vLbD0-EG-rqRS9xMHF6Fvw&slotNum=0&ie=UTF8&tag=farnamstreet-20&linkCode=w61&camp=217145&creative=399373&creativeASIN=0538453044 | Books | N. Gregory Mankiw |
+|  Principles of Microeconomics (Mankiw's Principles of Economics) | https://www.amazon.com/gp/product/0538453044 | Books | N. Gregory Mankiw |
 |  Counterinsurgency: Fighting Back | https://www.farnamstreetblog.com/2017/06/counterinsurgency/ | Blogs | Farnam Street |
-|  Counterinsurgency | https://www.amazon.com/gp/product/0199737495/ref=as_at/?imprToken=CPVzdeYmmOlaRaRcJ1TL.w&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0199737495&linkId=55aae9dda0d2a68bded6422358190515 | Books | David Kilcullen |
-|  Counterinsurgency Warfare: Theory and Practice (PSI Classics of the Counterinsurgency Era) | https://www.amazon.com/gp/product/0275993035/ref=as_at/?imprToken=CPVzdeYmmOlaRaRcJ1TL.w&slotNum=1&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0275993035&linkId=97e51e58cfafc41b78573cf40ced7f03 | Books | David Galula |
+|  Counterinsurgency | https://www.amazon.com/gp/product/0199737495 | Books | David Kilcullen |
+|  Counterinsurgency Warfare: Theory and Practice (PSI Classics of the Counterinsurgency Era) | https://www.amazon.com/gp/product/0275993035 | Books | David Galula |
 |  Mutually Assured Destruction — What Have We Done? | https://www.farnamstreetblog.com/2017/06/mutually-assured-destruction/ | Blogs | Farnam Street |
 |  Buffett: 'There are lots of loose nukes around the world' | http://www.cnn.com/2005/US/05/10/buffett/index.html | Blogs | Warren Buffett, Lou Dobbs |
 |  The Knowledge Project Podcast by Shane Parrish | https://www.farnamstreetblog.com/the-knowledge-project/ | Podcasts | Shane Parrish |
-|  The Case Against Sugar | https://www.amazon.com/gp/product/0307946649/ref=as_at/?imprToken=T.8CIOG1SPka8HtWoxE2UQ&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0307946649&linkId=7fbf8e59edec5ac178294e1af07e8580 | Books | Gary Taubes |
-|  Why We Get Fat: And What to Do About It | https://www.amazon.com/gp/product/0307474259/ref=as_at/?imprToken=T.8CIOG1SPka8HtWoxE2UQ&slotNum=1&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0307474259&linkId=09140c76373385bb50de5858c7eff68d | Books | Gary Taubes |
-|  Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health | https://www.amazon.com/gp/product/1400033462/ref=as_at/?imprToken=T.8CIOG1SPka8HtWoxE2UQ&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1400033462&linkId=1cd233e61db4c18ff57449d7414ff671 | Books | Gary Taubes |
-|  1493: Uncovering the New World Columbus Created | https://www.amazon.com/gp/product/0307278247/ref=as_at/?imprToken=T.8CIOG1SPka8HtWoxE2UQ&slotNum=6&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0307278247&linkId=3369ca76880aa20711e69567a1b04339 | Books | Charles C. Mann |
+|  The Case Against Sugar | https://www.amazon.com/gp/product/0307946649 | Books | Gary Taubes |
+|  Why We Get Fat: And What to Do About It | https://www.amazon.com/gp/product/0307474259 | Books | Gary Taubes |
+|  Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health | https://www.amazon.com/gp/product/1400033462 | Books | Gary Taubes |
+|  1493: Uncovering the New World Columbus Created | https://www.amazon.com/gp/product/0307278247 | Books | Charles C. Mann |
 |  What if It's All Been a Big Fat Lie? | http://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html | Blogs | Gary Taubes |
 |  Is Fat Killing You, or Is Sugar? | https://www.newyorker.com/magazine/2017/04/03/is-fat-killing-you-or-is-sugar | Blogs | Jerome Groopman |
 |  Mechanisms, Pathophysiology, and Management of Obesity | http://www.nejm.org/doi/full/10.1056/NEJMra1514009 | Research | Steven B. Heymsfield, M.D., and Thomas A. Wadden, Ph.D. |
 |  The Mexican 1982 debt crisis | https://economics.rabobank.com/publications/2013/september/the-mexican-1982-debt-crisis/ | Research | Other authors |
-|  An Everyone Culture: Becoming a Deliberately Developmental Organization | https://www.amazon.com/gp/product/1625278624/ref=as_at/?imprToken=4hj3JzNHcroBcg4SZZQT1A&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1625278624&linkId=b79f4259b6e64b0c7895f1a6cfc94ed6 | Books | Robert Kegan |
-|  Not Caring What Other People Think Is a Super Power: Insights From A Heavyweight Boxer | https://www.amazon.com/gp/product/B06WD69VFX/ref=as_at/?imprToken=xj4AVR2xktrdQF3cHjwBRg&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=B06WD69VFX&linkId=70705a314d0b9d9f17594e9edf7a4475 | Books | Ed Latimore |
-|  Seven Brief Lessons on Physics | https://www.amazon.com/gp/product/0399184414/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0399184414&linkId=a04bf3dd8e1a9064b97800697d6a1964 | Books | Carlo Rovelli |
-|  The Book of Life: Daily Meditations with Krishnamurti | https://www.amazon.com/gp/product/0060648791/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0060648791&linkId=3da9031eacbdfeafdb92d077d89c0475 | Books | Jiddu Krishnamurti  |
-|  René Girard's Mimetic Theory (Studies in Violence, Mimesis, & Culture) | https://www.amazon.com/gp/product/1611860776/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=3&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1611860776&linkId=04e6bf8515970d003ade61a2de3c07e6 | Books | Wolfgang Palaver |
-|  Stories of Your Life and Others | https://www.amazon.com/gp/product/1101972122/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=5&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1101972122&linkId=673894d8d9e5d1f6201e75a231a5fb99 | Books | Ted Chiang |
-|  Thermoinfocomplexity: A New Theory: Origin of Life and Evolution of Complex Adaptive Systems | https://www.amazon.com/gp/product/0989529762/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=6&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0989529762&linkId=b25246514fb10ef922793a4d92344936 | Books | Behzad Mohit  |
-|  Pre-Suasion: A Revolutionary Way to Influence and Persuade | https://www.amazon.com/gp/product/1501109790/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=7&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1501109790&linkId=4f0dfa2dea4d0bb831ac688d33ec7636 | Books | Robert Cialdini Ph.D. |
-|  The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers | https://www.amazon.com/gp/product/0671739166/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=9&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0671739166&linkId=4d0be7b37b277aefe047df3979efd158 | Books | Will Durant |
-|  God's Debris: A Thought Experiment | https://www.amazon.com/gp/product/0740747878/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=10&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0740747878&linkId=d733cd81381d69361cf6d693ab507994 | Books | Scott Adams |
-|  The Undercover Economist | https://www.amazon.com/gp/product/0345494016/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=11&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0345494016&linkId=01df56b6c1a142a043b34350a54ba749 | Books | Tim Harford |
-|  Perfectly Reasonable Deviations from the Beaten Track | https://www.amazon.com/gp/product/0465023711/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=12&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0465023711&linkId=c1337984543f8f05f1102f97b499cf73 | Books | Richard Feynman |
-|  Genius: The Life and Science of Richard Feynman | https://www.amazon.com/gp/product/0679747044/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=13&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0679747044&linkId=5f6f3747d0eb5630a381b1f48bb39f9d | Books | James Gleick |
-|  The Evolution of Everything: How New Ideas Emerge | https://www.amazon.com/gp/product/0062296019/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=14&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0062296019&linkId=a74ec567dbe0751a72c27041e286a497 | Books | Matt Ridley |
-|  The Three-Body Problem | https://www.amazon.com/gp/product/0765382032/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=15&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0765382032&linkId=4106252c92e815d2a33c5d49fde25e3c | Books | Cixin Liu |
-|  Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships | https://www.amazon.com/gp/product/0061707813/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=17&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0061707813&linkId=5e916879fdaea37e272575743617557c | Books | Christopher Ryan, Cacilda Jetha |
-|  Art of Manipulation: How to Get What You Want Out of People in Business, in Your Personal Life, and in Your Love Life | https://www.amazon.com/gp/product/0385270070/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=19&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0385270070&linkId=0055d1fd28b60e5065542e89364d6cc7 | Books | R. B. Sparkman |
-|  Thing Explainer: Complicated Stuff in Simple Words | https://www.amazon.com/gp/product/0544668251/ref=as_at/?imprToken=WFA8btJTeDaaEJwvg4Ac4Q&slotNum=20&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0544668251&linkId=9fc37bc4083f8a255369b9b8f8212ff5 | Books | Randall Munroe |
-|  A Guide to the Good Life: The Ancient Art of Stoic Joy | https://www.amazon.com/gp/product/0195374614/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0195374614&linkId=235cf0220a7cb458cc6d118a249b555b | Books | William B. Irvine |
-|  Immortality: The Quest to Live Forever and How It Drives Civilization | https://www.amazon.com/gp/product/0307884910/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=3&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0307884910&linkId=3855b8e385c6063cb27e934be0b556f3 | Books | Stephen Cave |
-|  The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | https://www.amazon.com/gp/product/0525428089/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=7&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0525428089&linkId=327f9907ac8d3fe6301c3e4d53fda64b | Books | Kevin Kelly |
-|  Algorithms to Live By: The Computer Science of Human Decisions | https://www.amazon.com/gp/product/1627790365/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=8&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1627790365&linkId=2f8d64f908acc1816171be0bea77e8d7 | Books | Brian Christian, Tom Griffiths |
-|  The Age of Em: Work, Love, and Life when Robots Rule the Earth | https://www.amazon.com/gp/product/0198754620/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=9&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0198754620&linkId=2158a6011dc0cb542ba76ca5a7de3b6d | Books | Robin Hanson |
+|  An Everyone Culture: Becoming a Deliberately Developmental Organization | https://www.amazon.com/gp/product/1625278624 | Books | Robert Kegan |
+|  Not Caring What Other People Think Is a Super Power: Insights From A Heavyweight Boxer | https://www.amazon.com/gp/product/B06WD69VFX | Books | Ed Latimore |
+|  Seven Brief Lessons on Physics | https://www.amazon.com/gp/product/0399184414 | Books | Carlo Rovelli |
+|  The Book of Life: Daily Meditations with Krishnamurti | https://www.amazon.com/gp/product/0060648791 | Books | Jiddu Krishnamurti  |
+|  René Girard's Mimetic Theory (Studies in Violence, Mimesis, & Culture) | https://www.amazon.com/gp/product/1611860776 | Books | Wolfgang Palaver |
+|  Stories of Your Life and Others | https://www.amazon.com/gp/product/1101972122 | Books | Ted Chiang |
+|  Thermoinfocomplexity: A New Theory: Origin of Life and Evolution of Complex Adaptive Systems | https://www.amazon.com/gp/product/0989529762 | Books | Behzad Mohit  |
+|  Pre-Suasion: A Revolutionary Way to Influence and Persuade | https://www.amazon.com/gp/product/1501109790 | Books | Robert Cialdini Ph.D. |
+|  The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers | https://www.amazon.com/gp/product/0671739166 | Books | Will Durant |
+|  God's Debris: A Thought Experiment | https://www.amazon.com/gp/product/0740747878 | Books | Scott Adams |
+|  The Undercover Economist | https://www.amazon.com/gp/product/0345494016 | Books | Tim Harford |
+|  Perfectly Reasonable Deviations from the Beaten Track | https://www.amazon.com/gp/product/0465023711 | Books | Richard Feynman |
+|  Genius: The Life and Science of Richard Feynman | https://www.amazon.com/gp/product/0679747044 | Books | James Gleick |
+|  The Evolution of Everything: How New Ideas Emerge | https://www.amazon.com/gp/product/0062296019 | Books | Matt Ridley |
+|  The Three-Body Problem | https://www.amazon.com/gp/product/0765382032 | Books | Cixin Liu |
+|  Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships | https://www.amazon.com/gp/product/0061707813 | Books | Christopher Ryan, Cacilda Jetha |
+|  Art of Manipulation: How to Get What You Want Out of People in Business, in Your Personal Life, and in Your Love Life | https://www.amazon.com/gp/product/0385270070 | Books | R. B. Sparkman |
+|  Thing Explainer: Complicated Stuff in Simple Words | https://www.amazon.com/gp/product/0544668251 | Books | Randall Munroe |
+|  A Guide to the Good Life: The Ancient Art of Stoic Joy | https://www.amazon.com/gp/product/0195374614 | Books | William B. Irvine |
+|  Immortality: The Quest to Live Forever and How It Drives Civilization | https://www.amazon.com/gp/product/0307884910 | Books | Stephen Cave |
+|  The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | https://www.amazon.com/gp/product/0525428089 | Books | Kevin Kelly |
+|  Algorithms to Live By: The Computer Science of Human Decisions | https://www.amazon.com/gp/product/1627790365 | Books | Brian Christian, Tom Griffiths |
+|  The Age of Em: Work, Love, and Life when Robots Rule the Earth | https://www.amazon.com/gp/product/0198754620 | Books | Robin Hanson |
 |  Is Sugar Slowly Killing Us? My conversation with Gary Taubes | https://www.farnamstreetblog.com/2017/11/gary-taubes-sugar/ | Podcasts | Farnam Street |
 |  Susan Cain: Leading the “Quiet Revolution” | https://www.farnamstreetblog.com/2017/11/susan-cain/ | Podcasts | Farnam Street |
 |  Life Lessons from a Self-Made Billionaire: My Conversation with Ray Dalio | https://www.farnamstreetblog.com/2017/10/ray-dalio/ | Podcasts | Farnam Street |
@@ -759,36 +759,36 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Rory Sutherland on The Psychology of Advertising, Complex Evolved Systems, Reading, Decision Making | https://www.farnamstreetblog.com/2017/06/rory-sutherland-podcast/ | Podcasts | Farnam Street |
 |  Naval Ravikant on Reading, Happiness, Systems for Decision Making, Habits, Honesty and More | https://www.farnamstreetblog.com/2017/02/naval-ravikant-reading-decision-making/ | Podcasts | Farnam Street |
 |  Samuel Arbesman on Complex Adaptive Systems and the Difference between Biological and Physics Based Thinking | https://www.farnamstreetblog.com/2016/11/samuel-arbesman-biological-physics-thinking/ | Podcasts | Farnam Street |
-|  The Half-Life of Facts: Why Everything We Know Has an Expiration Date | https://www.amazon.com/gp/product/159184651X/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=159184651X&linkId=f1dec31ed44fc35af5e3b3481e493c00 | Books | Samuel Arbesman |
-|  Overcomplicated: Technology at the Limits of Comprehension  | https://www.amazon.com/gp/product/1591847761/ref=as_at/?imprToken=x9g0Dt0HXNG8SGrq93rLPA&slotNum=1&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1591847761&linkId=c0d863d9acb8b35724da5f69a7ca6992 | Books | Samuel Arbesman |
+|  The Half-Life of Facts: Why Everything We Know Has an Expiration Date | https://www.amazon.com/gp/product/159184651X | Books | Samuel Arbesman |
+|  Overcomplicated: Technology at the Limits of Comprehension  | https://www.amazon.com/gp/product/1591847761 | Books | Samuel Arbesman |
 |  The Knowledge Project: Morgan Housel on Reading, Writing, Filtering Information | https://www.farnamstreetblog.com/2016/10/morgan-housel-reading-filtering/ | Podcasts | Farnam Street |
 |  Pedro Domingos on Artificial Intelligence, Where Knowledge Comes From, The Five Major Schools of Machine Learning, and More | https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/ | Podcasts | Farnam Street |
-|  The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World | https://www.amazon.com/gp/product/0465065708/ref=as_at/?imprToken=I2JrUEH1kZlawo8rdxzOQA&slotNum=0&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0465065708&linkId=1fe71fb9586055895c9412e10c1e1bb5 | Books | Pedro Domingos |
+|  The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World | https://www.amazon.com/gp/product/0465065708 | Books | Pedro Domingos |
 |  The Knowledge Project: Véronique Rivest on Wine | https://www.farnamstreetblog.com/2016/07/veronique-rivest-wine/ | Podcasts | Farnam Street |
-|  The World Atlas of Wine, 7th Edition | https://www.amazon.com/gp/product/1845336895/ref=as_at/?imprToken=99PhPVIuex-kK98goWQZLA&slotNum=0&ie=UTF8&tag=noisefreeinve-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=1845336895&linkId=f9286f9408b19631d35ae7c03f07e2d7 | Books | Hugh Johnson, Jancis Robinson |
-|  The Oxford Companion to Wine (Oxford Companions) | https://www.amazon.com/gp/product/0198705387/ref=as_at/?imprToken=99PhPVIuex-kK98goWQZLA&slotNum=1&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0198705387&linkId=01fac377f092cb911fee6fc4e83b907f | Books | Jancis Robinson |
-|  Wine Grapes: A Complete Guide to 1,368 Vine Varieties, Including Their Origins and Flavours | https://www.amazon.com/gp/product/0062206362/ref=as_at/?imprToken=99PhPVIuex-kK98goWQZLA&slotNum=2&ie=UTF8&tag=farnamstreet-20&camp=1789&creative=9325&linkCode=w61&creativeASIN=0062206362&linkId=fa293c564701ab6906044e10c8cf78e6 | Books | Jancis Robinson |
+|  The World Atlas of Wine, 7th Edition | https://www.amazon.com/gp/product/1845336895 | Books | Hugh Johnson, Jancis Robinson |
+|  The Oxford Companion to Wine (Oxford Companions) | https://www.amazon.com/gp/product/0198705387 | Books | Jancis Robinson |
+|  Wine Grapes: A Complete Guide to 1,368 Vine Varieties, Including Their Origins and Flavours | https://www.amazon.com/gp/product/0062206362 | Books | Jancis Robinson |
 |  Ryan Holiday on Reading, What it Means to be a Stoic, and How to Take Notes | https://www.farnamstreetblog.com/2016/05/ryan-holiday-knowledge-project/ | Podcasts | Farnam Street |
-|  Trust Me, I'm Lying: Confessions of a Media Manipulator | https://www.amazon.com/gp/product/1591846285/ref=as_at/?imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=0&ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846285&linkCode=w61&tag=noisefreeinve-20&linkId=SH7ETEU2NM3NOJMK | Books | Ryan Holiday |
-|  The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph | https://www.amazon.com/gp/product/1591846358/ref=as_at/?imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=1&ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846358&linkCode=w61&tag=noisefreeinve-20&linkId=WJ2NMGZ6GPTWQKL2 | Books | Ryan Holiday |
-|  Ego Is the Enemy | https://www.amazon.com/gp/product/1591847818/ref=as_at/?imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=2&ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847818&linkCode=w61&tag=noisefreeinve-20&linkId=IWP67YI3EHC2DLWM | Books | Ryan Holiday |
-|  The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=0735211736&pd_rd_r=25GZG7QAECFAB3FGFW7W&pd_rd_w=YWxNj&pd_rd_wg=Ar6jG&psc=1&refRID=25GZG7QAECFAB3FGFW7W | Books | Ryan Holiday |
-|  Diogenes Laertius: Lives of Eminent Philosophers, Volume II, Books 6-10 | https://www.amazon.com/Diogenes-Laertius-Eminent-Philosophers-Classical/dp/0674992040/ref=as_at?creativeASIN=0674992040&linkCode=w61&imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=4 | Books | Diogenes Laertius |
-|  The 48 Laws of Power | https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197/ref=as_at?creativeASIN=0140280197&linkCode=w61&imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=5 | Books | Robert Greene |
-|  Dying Every Day: Seneca at the Court of Nero | https://www.amazon.com/Dying-Every-Day-Seneca-Court/dp/0307743748/ref=as_at?creativeASIN=0307743748&linkCode=w61&imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=6 | Books | James Romm |
-|  The Inner Citadel: The Meditations of Marcus Aurelius (Meditations of Marcus Aurelius) | https://www.amazon.com/Inner-Citadel-Meditations-Marcus-Aurelius/dp/0674007077/ref=as_at?creativeASIN=0674007077&linkCode=w61&imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=7 | Books | Pierre Hardot |
-|  Robert A. Caro's The Years of Lyndon Johnson Set: The Path to Power; Means of Ascent; Master of the Senate; The Passage of Power | https://www.amazon.com/Robert-Caros-Years-Lyndon-Johnson/dp/038535147X/ref=as_at?creativeASIN=038535147X&linkCode=w61&imprToken=owJhZXipnkQ-6CcQeWSrNw&slotNum=8 | Books | Robert A. Caro |
+|  Trust Me, I'm Lying: Confessions of a Media Manipulator | https://www.amazon.com/gp/product/1591846285 | Books | Ryan Holiday |
+|  The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph | https://www.amazon.com/gp/product/1591846358 | Books | Ryan Holiday |
+|  Ego Is the Enemy | https://www.amazon.com/gp/product/1591847818 | Books | Ryan Holiday |
+|  The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living | https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736 | Books | Ryan Holiday |
+|  Diogenes Laertius: Lives of Eminent Philosophers, Volume II, Books 6-10 | https://www.amazon.com/Diogenes-Laertius-Eminent-Philosophers-Classical/dp/0674992040 | Books | Diogenes Laertius |
+|  The 48 Laws of Power | https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197 | Books | Robert Greene |
+|  Dying Every Day: Seneca at the Court of Nero | https://www.amazon.com/Dying-Every-Day-Seneca-Court/dp/0307743748 | Books | James Romm |
+|  The Inner Citadel: The Meditations of Marcus Aurelius (Meditations of Marcus Aurelius) | https://www.amazon.com/Inner-Citadel-Meditations-Marcus-Aurelius/dp/0674007077 | Books | Pierre Hardot |
+|  Robert A. Caro's The Years of Lyndon Johnson Set: The Path to Power; Means of Ascent; Master of the Senate; The Passage of Power | https://www.amazon.com/Robert-Caros-Years-Lyndon-Johnson/dp/038535147X | Books | Robert A. Caro |
 |  Alexander Shelley on The Architecture of Music and The Necessity of Arts | https://www.farnamstreetblog.com/2016/03/alexander-shelley-architecture-music/ | Podcasts | Farnam Street |
 |  Julia Galef on Becoming More Rational, Changing Minds, and Filtering Information | https://www.farnamstreetblog.com/2016/02/julia-galef-becoming-rational/ | Podcasts | Farnam Street |
 |  Rationally Speaking | http://rationallyspeakingpodcast.org/ | Podcasts | Julia Galef |
-|  Language, Truth and Logic | https://www.amazon.com/gp/product/0486200108/ref=as_at/?imprToken=UDwwShCl03Dlbzzv5pwp3A&slotNum=0&ie=UTF8&camp=1789&creative=9325&creativeASIN=0486200108&linkCode=w61&tag=farnamstreet-20&linkId=XX6BOMD67OMUHZWY | Books | Alfred J. Ayer |
+|  Language, Truth and Logic | https://www.amazon.com/gp/product/0486200108 | Books | Alfred J. Ayer |
 |  Venkatesh Rao on The Three Types of Decision Makers, Mental Models, and How to Process Information | https://www.farnamstreetblog.com/2016/02/venkatesh-rao-decision-making/ | Podcasts | Farnam Street |
 |  How software is eating the world, Season 1 | https://breakingsmart.com/en/season-1/ | Blogs | Venkatesh Guru Rao |
-|  Tempo: timing, tactics and strategy in narrative-driven decision-making | https://www.amazon.com/gp/product/0982703007/ref=as_at/?imprToken=zzbpROEcXUHjnegu36e4kg&slotNum=0&ie=UTF8&camp=1789&creative=9325&creativeASIN=0982703007&linkCode=w61&tag=farnamstreet-20&linkId=LSB3L4KA6UN32ENY | Books | Venkatesh Guru Rao |
-|  Strategy and Structure: Chapters in the History of the Industrial Enterprise | https://www.amazon.com/gp/product/1614275084/ref=as_at/?imprToken=zzbpROEcXUHjnegu36e4kg&slotNum=2&ie=UTF8&camp=1789&creative=9325&creativeASIN=1614275084&linkCode=w61&tag=farnamstreet-20&linkId=HRTPM5QCUSQL3LY4 | Books | Alfred D. Chandler  |
-|  The Visible Hand: The Managerial Revolution in American Business | https://www.amazon.com/gp/product/0674940520/ref=as_at/?imprToken=zzbpROEcXUHjnegu36e4kg&slotNum=3&ie=UTF8&camp=1789&creative=9325&creativeASIN=0674940520&linkCode=w61&tag=farnamstreet-20&linkId=EOMCA2EJNW2ZH3VT | Books | Alfred D. Chandler  |
-|  Images of Organization | https://www.amazon.com/gp/product/1412939798/ref=as_at/?imprToken=zzbpROEcXUHjnegu36e4kg&slotNum=4&ie=UTF8&camp=1789&creative=9325&creativeASIN=1412939798&linkCode=w61&tag=farnamstreet-20&linkId=PMEE64EN422QII2M | Books | Gareth Morgan |
-|  Finite and Infinite Games | https://www.amazon.com/gp/product/1476731713/ref=as_at/?imprToken=zzbpROEcXUHjnegu36e4kg&slotNum=5&ie=UTF8&camp=1789&creative=9325&creativeASIN=1476731713&linkCode=w61&tag=farnamstreet-20&linkId=PDUVN3I2OBUMRVMS | Books | James Carse |
+|  Tempo: timing, tactics and strategy in narrative-driven decision-making | https://www.amazon.com/gp/product/0982703007 | Books | Venkatesh Guru Rao |
+|  Strategy and Structure: Chapters in the History of the Industrial Enterprise | https://www.amazon.com/gp/product/1614275084 | Books | Alfred D. Chandler  |
+|  The Visible Hand: The Managerial Revolution in American Business | https://www.amazon.com/gp/product/0674940520 | Books | Alfred D. Chandler  |
+|  Images of Organization | https://www.amazon.com/gp/product/1412939798 | Books | Gareth Morgan |
+|  Finite and Infinite Games | https://www.amazon.com/gp/product/1476731713 | Books | James Carse |
 |  Introduction (by Marc Andreessen) | https://breakingsmart.com/en/season-1/introduction-by-marc-andreessen/ | Blogs | Marc Andreessen |
 |  A New Soft Technology | https://breakingsmart.com/en/season-1/a-new-soft-technology/ | Blogs | Venkatesh Rao |
 |  Getting Reoriented | https://breakingsmart.com/en/season-1/getting-reoriented/ | Blogs | Venkatesh Rao |
@@ -886,7 +886,7 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Cerium | https://aeon.co/classics/the-chemical-element-that-sparked-a-victory-in-auschwitz | Blogs | Primo Levi |
 |  On the Happy Life | https://aeon.co/classics/massimo-pigliucci-on-senecas-stoic-philosophy-of-happiness | Blogs | Seneca |
 |  Reversing the thermodynamic arrow of time using quantum correlations | https://arxiv.org/pdf/1711.03323.pdf | Research | Kaonan Micadei |
-|  The Alliance: Managing Talent in the Networked Age | https://www.amazon.com/gp/product/1625275773/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1625275773&linkCode=as2&tag=alliancewebsite-20&linkId=5OC47BGXU4H5ZNUY | Books | Reid Hoffman |
+|  The Alliance: Managing Talent in the Networked Age | https://www.amazon.com/gp/product/1625275773 | Books | Reid Hoffman |
 |  The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career | https://www.amazon.com/Start-up-You-Future-Yourself-Transform-ebook/dp/B0050DIWHU | Books | Reid Hoffman |
 |  Tours of Duty: The New Employer-Employee Compact | https://hbr.org/2013/06/tours-of-duty-the-new-employer-employee-compact | Blogs | Reid Hoffman |
 |  I’m Bill Gates, co-chair of the Bill & Melinda Gates Foundation. AMA | https://www.reddit.com/r/IAmA/comments/18bhme/im_bill_gates_cochair_of_the_bill_melinda_gates/ | Discussion | Bill Gates |
@@ -926,7 +926,7 @@ This is a sample of the most recent submissions to [Athena](https://www.athena.c
 |  Creating a Side Project | https://drive.google.com/file/d/1yVp8BO11Ijt44J8Nn95SD7XjvzrLBJaU/view | Books | Failory |
 |  Sequoia Capital Inkling | https://www.inkling.com/sequoia/ | Blogs | Sequoia Capital |
 |  Sam Harris: The Self is an Illusion | https://www.youtube.com/watch?v=fajfkO_X0l0 | Videos | Sam Harris |
-|  The Story of Civilization (11 Volume Set) | https://www.amazon.com/Story-Civilization-11-Set/dp/1567310230/ref=la_B00N3MKTAI_1_2?s=books&ie=UTF8&qid=1514329173&sr=1-2 | Books | Will Durant, Ariel Durant |
+|  The Story of Civilization (11 Volume Set) | https://www.amazon.com/Story-Civilization-11-Set/dp/1567310230 | Books | Will Durant, Ariel Durant |
 |  The Case for Cosmic Modesty | https://www.youtube.com/watch?v=FdWymeUOC2k&list=PL899702E77C72BA38&index=10 | Talks | Harvard |
 |  Awesome List | https://github.com/sindresorhus/awesome | Lists | Awesome List |
 |  Learn to Program | https://github.com/karlhorky/learn-to-program | Lists | Learn to Program |
