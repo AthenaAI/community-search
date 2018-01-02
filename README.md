@@ -1,7 +1,7 @@
 # Guidelines for contributing to Athena
 [Athena](https://www.athena.cool) is a community-curated repository of 🔥 learning resources. Every resource in [this collection](/collection.md) is manually curated by the community, and can be searched through [here](https://www.athena.cool).
 
-![](/curated-search-v3.png)
+![Athena for learning](/athena-design-mockup.png)
 
 **This is where you can [contribute](#contributing-to-this-collection) your favorite learning resources to the collection!** When you do, you get your name on our [contributor wall](https://www.athena.cool/contributors).
 
